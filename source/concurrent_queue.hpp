@@ -69,6 +69,14 @@ public:
 		return value;
 	}
 
+	/// \brief Очищает данные в очереди.
+	void clear()
+	{
+		std::scoped_lock lock(mtx_);
+		std::queue<T> empty;
+		queue_.swap(empty);
+	}
+
 	/// \brief Закрывает очередь для добавления и пробуждает ожидающие потоки.
 	void close()
 	{
