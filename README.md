@@ -2,7 +2,7 @@
 
 > **Адаптивный клавиатурный тренажер с анализом проблемных n-грамм пользователя**
 
-[![C++](https://img.shields.io/badge/C++-20-blue.svg)](https://en.cppreference.com/)
+[![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://en.cppreference.com/)
 [![Qt](https://img.shields.io/badge/Qt-6.0+-green.svg)](https://www.qt.io/)
 [![CMake](https://img.shields.io/badge/CMake-3.16+-red.svg)](https://cmake.org/)
 
@@ -28,7 +28,7 @@
 ## 🚀 Быстрый старт
 
 ### Требования
-- Компилятор с поддержкой **C++20** (GCC 10+, Clang 10+, MSVC 19.29+)
+- Компилятор с поддержкой **C++17** (GCC 10+, Clang 10+, MSVC 19.29+)
 - **CMake** 3.16+
 - **Qt 6** (Core, Gui, Widgets)
 
