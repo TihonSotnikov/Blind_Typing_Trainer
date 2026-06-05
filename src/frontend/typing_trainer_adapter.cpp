@@ -25,6 +25,11 @@ void QmlTypingTrainerAdapter::startSession(const QString& text)
     m_core->push_input(cmd);
 }
 
+void QmlTypingTrainerAdapter::stopSession()
+{
+    m_core->push_input(StopSessionCommand{});
+}
+
 void QmlTypingTrainerAdapter::sendKeyPress(const QString& keyText)
 {
     if (keyText.isEmpty()) return;
@@ -43,9 +48,52 @@ void QmlTypingTrainerAdapter::sendBackspace()
     m_core->push_input(data);
 }
 
+void QmlTypingTrainerAdapter::updateFormattedText()
+{
+    QString html;
+    // Резервируем память (примерно 40 символов на каждый тег)
+    html.reserve(m_charStates.size() * 40); 
+
+    for (const auto& state : m_charStates)
+    {
+        // Конвертируем UTF-32 в QString
+        QString ch = QString::fromUcs4(&state.character, 1);
+        
+        // Экранируем спецсимволы HTML, чтобы не сломать парсер
+        if (ch == "<") ch = "&lt;";
+        else if (ch == ">") ch = "&gt;";
+        else if (ch == "&") ch = "&amp;";
+
+        switch (state.status)
+        {
+            case CharStatus::Pending:
+                // Серый цвет для не набранного текста
+                html += "<span style='color: #9E9E9E'>" + ch + "</span>"; 
+                break;
+            case CharStatus::Correct:
+                // Зеленый для правильного
+                html += "<span style='color: #4CAF50'>" + ch + "</span>"; 
+                break;
+            case CharStatus::Wrong:
+                // ВАЖНО: Если пользователь ошибся на пробеле, красный текст не будет видно.
+                // Поэтому для пробелов мы подсвечиваем фон!
+                if (state.character == U' ') {
+                    html += "<span style='background-color: #EF9A9A'> </span>";
+                } else {
+                    html += "<span style='color: #F44336; text-decoration: underline;'>" + ch + "</span>";
+                }
+                break;
+        }
+    }
+
+    if (m_textToType != html) {
+        m_textToType = html;
+        emit textToTypeChanged();
+    }
+}
+
 void QmlTypingTrainerAdapter::onOutputReady()
 {
-    // Этот метод гарантированно выполняется в главном UI-потоке Qt
     while (auto event_opt = m_core->poll_output())
     {
         std::visit([this](auto&& arg) {
@@ -53,27 +101,24 @@ void QmlTypingTrainerAdapter::onOutputReady()
             
             if constexpr (std::is_same_v<T, SessionState>)
             {
-                // 1. Исправление: Собираем std::u32string из вектора CharState
-                std::u32string u32_text;
-                u32_text.reserve(arg.chars.size());
-                for (const auto& char_state : arg.chars)
-                {
-                    u32_text.push_back(char_state.character);
-                }
-
-                // Преобразуем UTF-32 строку в QString для QML
-                m_textToType = QString::fromStdU32String(u32_text);
+                m_charStates = arg.chars; // Сохраняем массив
+                updateFormattedText();    // Генерируем HTML строку
                 
                 m_cursorPosition = static_cast<int>(arg.cursor_position);
                 m_wpm = arg.metrics.wpm;
                 m_accuracy = arg.metrics.accuracy;
                 
-                emit textToTypeChanged();
                 emit cursorPositionChanged();
                 emit metricsChanged();
             }
             else if constexpr (std::is_same_v<T, StateUpdate>)
             {
+                // Обновляем конкретный символ по дельте
+                if (arg.changed_index < m_charStates.size()) {
+                    m_charStates[arg.changed_index] = arg.changed_char;
+                }
+                updateFormattedText(); // Пересобираем HTML
+                
                 m_cursorPosition = static_cast<int>(arg.cursor_position);
                 m_wpm = arg.metrics.wpm;
                 m_accuracy = arg.metrics.accuracy;
