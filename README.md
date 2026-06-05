@@ -50,6 +50,7 @@ vcpkg integrate install
 
 # Установить Qt6:
 vcpkg install qtbase:x64-windows
+vcpkg install qtdeclarative:x64-windows
 # ^ Это может занять от получаса до нескольких часов
 ```
 
@@ -57,6 +58,7 @@ vcpkg install qtbase:x64-windows
 ```sh
 sudo apt install build-essential
 sudo apt install qt6-base-dev
+sudo apt install qt6-declarative-dev qml6-module-qtquick qml6-module-qtquick-controls qml6-module-qtquick-layouts
 ```
 
 ### Сборка и запуск (Windows)
