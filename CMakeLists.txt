@@ -2,12 +2,14 @@ cmake_minimum_required(VERSION 3.21)
 
 set(X_VCPKG_APPLOCAL_DEPS_INSTALL ON)
 set(CMAKE_INSTALL_BINDIR .)
+set(CMAKE_AUTORCC ON)
 project(BlindTypingTrainer)
+list(APPEND CMAKE_PREFIX_PATH "$ENV{VCPKG_ROOT}/installed/x64-windows")
 
 set(CMAKE_CXX_STANDARD 20)
 
 find_package(
-    Qt6 COMPONENTS Core Qml Quick Widgets QuickControls2 REQUIRED)
+    Qt6 COMPONENTS Core Qml Quick Widgets QuickControls2 QuickEffects REQUIRED)
 qt_standard_project_setup()
 
 qt_policy(SET QTP0001 NEW) # Устанавливает стандартный префикс ресурса в ":/qt/qml/"
@@ -16,13 +18,20 @@ qt_policy(SET QTP0004 NEW) # Включает строгую проверку с
 add_subdirectory(src/frontend)
 add_subdirectory(src/backend)
 
-qt_add_executable(BlindTypingTrainer src/main.cpp)
+qt_add_executable(BlindTypingTrainer
+    src/main.cpp
+    app_icon.rc
+    resources.qrc
+)
 
+set_source_files_properties(src/frontend/Theme.qml PROPERTIES QT_QML_SINGLETON_TYPE TRUE)
 qt_add_qml_module(BlindTypingTrainer
     URI BlindTypingTrainerModule
     VERSION 1.0
     QML_FILES
         src/frontend/main.qml
+        src/frontend/Theme.qml
+        src/frontend/elements/XButton.qml
 )
 
 # Disables console with Release configuration selected.
@@ -38,6 +47,7 @@ target_link_libraries(
     Qt6::Qml
     Qt6::Quick
     Qt6::QuickControls2
+    Qt6::QuickEffects
 )
 
 # Deployment: Generates a deployment script and runs it after building the target.
