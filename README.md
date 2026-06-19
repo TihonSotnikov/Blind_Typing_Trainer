@@ -67,7 +67,8 @@ git clone https://github.com/TihonSotnikov/Blind_Typing_Trainer.git
 cd Blind_Typing_Trainer
 cmake -S source --preset vcpkg-release
 cmake --build build --preset release
-./build/Release/Blind_Typing_Trainer  # или Blind_Typing_Trainer.exe на Windows
+cmake --install build --config release --prefix "$pwd/dist"
+./dist/BlindTypingTrainer.exe
 ```
 
 ---
@@ -81,8 +82,8 @@ Blind_Typing_Trainer/
 ├── docs/              # Документация проекта
 ├── include/           # Публичные заголовки (API-контракт между Core и UI)
 ├── src/
-│   ├── core/          # Машина состояний, расчет метрик, NgramAnalyzer, DataManager
-│   └── ui/            # Qt-окна, рендер текста с подсветкой, отображение статистики
+│   ├── backend/       # Машина состояний, расчет метрик, NgramAnalyzer, DataManager
+│   └── frontend/      # Qt-окна, рендер текста с подсветкой, отображение статистики
 ├── data/              # Базовые словари (генерация LLM)
 └── CMakeLists.txt     # Сценарий сборки
 ```
