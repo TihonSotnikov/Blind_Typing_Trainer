@@ -8,7 +8,10 @@ using namespace Qt::StringLiterals;
 int main(int argc, char *argv[])
 {
     QGuiApplication app(argc, argv);
-    QQuickStyle::setStyle("Material");
+    // QQuickStyle::setStyle("Material");
+    
+    app.setOrganizationName("TihonSotnikov");
+    app.setApplicationName("BlindTypingTrainer");
 
     // Регистрируем класс для использования в QML
     qmlRegisterType<typing_trainer::QmlTypingTrainerAdapter>(
