@@ -6,6 +6,8 @@ add_library(
     ngram_statistics.hpp
     dictionaries.cpp
     dictionaries.hpp
+    smart_text_generator.cpp
+    smart_text_generator.hpp
 )
 
 target_include_directories(
