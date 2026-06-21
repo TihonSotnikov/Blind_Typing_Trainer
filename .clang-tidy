@@ -23,6 +23,8 @@ Checks: >
   -misc-non-private-member-variables-in-classes,
   -readability-identifier-length
 
+  HeaderFilterRegex: '^(src)/.*'
+
 WarningsAsErrors: >
   clang-diagnostic-*,
   clang-analyzer-*,
