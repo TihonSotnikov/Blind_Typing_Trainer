@@ -1,0 +1,8911 @@
+{
+  "ngrams": [
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        72
+      ],
+      "occurrences": 0,
+      "total_time": 0.0
+    },
+    {
+      "attempts": 217,
+      "errors": 2,
+      "gram": [
+        32
+      ],
+      "occurrences": 213,
+      "total_time": 58.58585889999998
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        112,
+        32
+      ],
+      "occurrences": 3,
+      "total_time": 0.7666851
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        101,
+        32,
+        101
+      ],
+      "occurrences": 1,
+      "total_time": 0.2600745
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        1100,
+        32
+      ],
+      "occurrences": 4,
+      "total_time": 1.2446890000000002
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        1084
+      ],
+      "occurrences": 4,
+      "total_time": 1.3645837
+    },
+    {
+      "attempts": 26,
+      "errors": 0,
+      "gram": [
+        104,
+        101
+      ],
+      "occurrences": 26,
+      "total_time": 4.3984990999999996
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        105,
+        116
+      ],
+      "occurrences": 4,
+      "total_time": 1.0242571
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        72,
+        101,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.3461104
+    },
+    {
+      "attempts": 42,
+      "errors": 1,
+      "gram": [
+        101,
+        32
+      ],
+      "occurrences": 40,
+      "total_time": 11.295547199999998
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        72,
+        101
+      ],
+      "occurrences": 1,
+      "total_time": 0.4248718
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1089,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2349243
+    },
+    {
+      "attempts": 98,
+      "errors": 1,
+      "gram": [
+        101
+      ],
+      "occurrences": 96,
+      "total_time": 15.384608300000005
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        107,
+        110
+      ],
+      "occurrences": 4,
+      "total_time": 0.9564939
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        104,
+        111
+      ],
+      "occurrences": 2,
+      "total_time": 0.317025
+    },
+    {
+      "attempts": 11,
+      "errors": 0,
+      "gram": [
+        105,
+        110
+      ],
+      "occurrences": 11,
+      "total_time": 2.5297034000000003
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        112,
+        32,
+        119
+      ],
+      "occurrences": 1,
+      "total_time": 0.3707334
+    },
+    {
+      "attempts": 34,
+      "errors": 0,
+      "gram": [
+        32,
+        119
+      ],
+      "occurrences": 34,
+      "total_time": 8.817901300000003
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        105,
+        110,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.5617897000000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1074,
+        1086,
+        1087
+      ],
+      "occurrences": 1,
+      "total_time": 0.2359976
+    },
+    {
+      "attempts": 8,
+      "errors": 1,
+      "gram": [
+        119,
+        32
+      ],
+      "occurrences": 7,
+      "total_time": 1.8575776000000002
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1091
+      ],
+      "occurrences": 2,
+      "total_time": 0.5303103
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        98,
+        101
+      ],
+      "occurrences": 4,
+      "total_time": 0.8311262
+    },
+    {
+      "attempts": 44,
+      "errors": 1,
+      "gram": [
+        119
+      ],
+      "occurrences": 42,
+      "total_time": 10.598926
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1091,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.1760023
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        32,
+        105,
+        110
+      ],
+      "occurrences": 4,
+      "total_time": 0.6600029
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        105,
+        101,
+        110
+      ],
+      "occurrences": 1,
+      "total_time": 0.5311278
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        119,
+        101
+      ],
+      "occurrences": 2,
+      "total_time": 0.18019849999999998
+    },
+    {
+      "attempts": 8,
+      "errors": 0,
+      "gram": [
+        101,
+        32,
+        119
+      ],
+      "occurrences": 8,
+      "total_time": 1.8213605000000004
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        110,
+        108
+      ],
+      "occurrences": 1,
+      "total_time": 0.219967
+    },
+    {
+      "attempts": 50,
+      "errors": 1,
+      "gram": [
+        97
+      ],
+      "occurrences": 48,
+      "total_time": 8.001873
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        112,
+        97
+      ],
+      "occurrences": 2,
+      "total_time": 0.3506166
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        101,
+        32,
+        115
+      ],
+      "occurrences": 3,
+      "total_time": 0.6450614
+    },
+    {
+      "attempts": 7,
+      "errors": 0,
+      "gram": [
+        119,
+        97
+      ],
+      "occurrences": 7,
+      "total_time": 0.7354772
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1095,
+        1077,
+        1088
+      ],
+      "occurrences": 1,
+      "total_time": 0.2811049
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        97,
+        116,
+        99
+      ],
+      "occurrences": 1,
+      "total_time": 0.2505923
+    },
+    {
+      "attempts": 10,
+      "errors": 0,
+      "gram": [
+        118
+      ],
+      "occurrences": 10,
+      "total_time": 2.7962162999999998
+    },
+    {
+      "attempts": 11,
+      "errors": 0,
+      "gram": [
+        115,
+        101,
+        32
+      ],
+      "occurrences": 11,
+      "total_time": 2.9486858000000002
+    },
+    {
+      "attempts": 7,
+      "errors": 0,
+      "gram": [
+        32,
+        119,
+        97
+      ],
+      "occurrences": 7,
+      "total_time": 0.7354772
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        114,
+        32,
+        116
+      ],
+      "occurrences": 2,
+      "total_time": 0.5214177999999999
+    },
+    {
+      "attempts": 12,
+      "errors": 0,
+      "gram": [
+        117,
+        115
+      ],
+      "occurrences": 12,
+      "total_time": 3.2286585000000003
+    },
+    {
+      "attempts": 6,
+      "errors": 1,
+      "gram": [
+        110,
+        111,
+        119
+      ],
+      "occurrences": 5,
+      "total_time": 1.1340544
+    },
+    {
+      "attempts": 80,
+      "errors": 2,
+      "gram": [
+        116
+      ],
+      "occurrences": 76,
+      "total_time": 21.033913699999996
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1075,
+        1091,
+        1089
+      ],
+      "occurrences": 1,
+      "total_time": 0.3806014
+    },
+    {
+      "attempts": 11,
+      "errors": 0,
+      "gram": [
+        97,
+        116
+      ],
+      "occurrences": 11,
+      "total_time": 2.7523447
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        109,
+        111,
+        103
+      ],
+      "occurrences": 1,
+      "total_time": 0.250635
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        116,
+        104,
+        105
+      ],
+      "occurrences": 2,
+      "total_time": 0.33085149999999997
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        100,
+        97
+      ],
+      "occurrences": 1,
+      "total_time": 0.1259973
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        119,
+        97,
+        115
+      ],
+      "occurrences": 2,
+      "total_time": 0.6408372
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        32,
+        101
+      ],
+      "occurrences": 3,
+      "total_time": 0.6998268999999999
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        32,
+        103,
+        101
+      ],
+      "occurrences": 3,
+      "total_time": 0.5714570999999999
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        32,
+        98
+      ],
+      "occurrences": 6,
+      "total_time": 2.2457683
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        119,
+        97,
+        116
+      ],
+      "occurrences": 5,
+      "total_time": 1.5355398
+    },
+    {
+      "attempts": 24,
+      "errors": 1,
+      "gram": [
+        99
+      ],
+      "occurrences": 22,
+      "total_time": 6.744899900000001
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        99,
+        32
+      ],
+      "occurrences": 3,
+      "total_time": 0.7770569
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        98,
+        97
+      ],
+      "occurrences": 1,
+      "total_time": 0.0894201
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        32,
+        101,
+        118
+      ],
+      "occurrences": 3,
+      "total_time": 0.7671946
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        97,
+        115,
+        101
+      ],
+      "occurrences": 3,
+      "total_time": 0.3158786
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        116,
+        99
+      ],
+      "occurrences": 1,
+      "total_time": 0.2505923
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1091,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.1760023
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        119,
+        111,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2807467
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        32,
+        109,
+        117
+      ],
+      "occurrences": 3,
+      "total_time": 0.9716714
+    },
+    {
+      "attempts": 60,
+      "errors": 0,
+      "gram": [
+        104
+      ],
+      "occurrences": 59,
+      "total_time": 14.7808317
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        99,
+        104
+      ],
+      "occurrences": 5,
+      "total_time": 1.3182836999999998
+    },
+    {
+      "attempts": 12,
+      "errors": 0,
+      "gram": [
+        111,
+        32
+      ],
+      "occurrences": 12,
+      "total_time": 2.4762047000000003
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        104,
+        97,
+        118
+      ],
+      "occurrences": 2,
+      "total_time": 0.8005275000000001
+    },
+    {
+      "attempts": 98,
+      "errors": 2,
+      "gram": [
+        111
+      ],
+      "occurrences": 94,
+      "total_time": 20.140037200000002
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        112,
+        111
+      ],
+      "occurrences": 6,
+      "total_time": 1.1276340999999999
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        116,
+        99,
+        104
+      ],
+      "occurrences": 1,
+      "total_time": 0.2503659
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        106,
+        117
+      ],
+      "occurrences": 2,
+      "total_time": 0.4496305
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        107,
+        101
+      ],
+      "occurrences": 4,
+      "total_time": 0.775438
+    },
+    {
+      "attempts": 38,
+      "errors": 0,
+      "gram": [
+        110
+      ],
+      "occurrences": 38,
+      "total_time": 10.611013300000003
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        109,
+        97,
+        114
+      ],
+      "occurrences": 1,
+      "total_time": 0.2509985
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        99,
+        104,
+        101
+      ],
+      "occurrences": 1,
+      "total_time": 0.3100492
+    },
+    {
+      "attempts": 25,
+      "errors": 1,
+      "gram": [
+        100
+      ],
+      "occurrences": 23,
+      "total_time": 4.8192884000000005
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1081,
+        32,
+        1085
+      ],
+      "occurrences": 1,
+      "total_time": 0.2510137
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        101,
+        100
+      ],
+      "occurrences": 1,
+      "total_time": 0.356092
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        84,
+        104,
+        101
+      ],
+      "occurrences": 1,
+      "total_time": 0.3052167
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        104,
+        101,
+        100
+      ],
+      "occurrences": 1,
+      "total_time": 0.356092
+    },
+    {
+      "attempts": 3,
+      "errors": 1,
+      "gram": [
+        116,
+        111,
+        114
+      ],
+      "occurrences": 2,
+      "total_time": 0.8269335
+    },
+    {
+      "attempts": 24,
+      "errors": 1,
+      "gram": [
+        109
+      ],
+      "occurrences": 22,
+      "total_time": 7.482811900000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        102,
+        105,
+        114
+      ],
+      "occurrences": 1,
+      "total_time": 0.2322519
+    },
+    {
+      "attempts": 34,
+      "errors": 5,
+      "gram": [
+        117
+      ],
+      "occurrences": 24,
+      "total_time": 7.5363568
+    },
+    {
+      "attempts": 8,
+      "errors": 0,
+      "gram": [
+        32,
+        103,
+        111
+      ],
+      "occurrences": 8,
+      "total_time": 1.3411834
+    },
+    {
+      "attempts": 12,
+      "errors": 0,
+      "gram": [
+        32,
+        104
+      ],
+      "occurrences": 12,
+      "total_time": 4.6787565
+    },
+    {
+      "attempts": 4,
+      "errors": 1,
+      "gram": [
+        109,
+        117
+      ],
+      "occurrences": 3,
+      "total_time": 0.9716714
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        108,
+        105,
+        102
+      ],
+      "occurrences": 1,
+      "total_time": 0.271936
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        98,
+        97
+      ],
+      "occurrences": 4,
+      "total_time": 1.45795
+    },
+    {
+      "attempts": 41,
+      "errors": 2,
+      "gram": [
+        115
+      ],
+      "occurrences": 37,
+      "total_time": 10.162180800000002
+    },
+    {
+      "attempts": 42,
+      "errors": 1,
+      "gram": [
+        105
+      ],
+      "occurrences": 40,
+      "total_time": 9.902717999999998
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1093
+      ],
+      "occurrences": 1,
+      "total_time": 0.2772743
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        119,
+        104,
+        101
+      ],
+      "occurrences": 1,
+      "total_time": 0.1549343
+    },
+    {
+      "attempts": 4,
+      "errors": 1,
+      "gram": [
+        115,
+        105
+      ],
+      "occurrences": 3,
+      "total_time": 0.8152892
+    },
+    {
+      "attempts": 16,
+      "errors": 0,
+      "gram": [
+        32,
+        111
+      ],
+      "occurrences": 16,
+      "total_time": 3.8596926
+    },
+    {
+      "attempts": 4,
+      "errors": 1,
+      "gram": [
+        117,
+        115,
+        105
+      ],
+      "occurrences": 3,
+      "total_time": 0.8152892
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        105,
+        102,
+        101
+      ],
+      "occurrences": 1,
+      "total_time": 0.2992715
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        105,
+        99
+      ],
+      "occurrences": 6,
+      "total_time": 1.5736530000000002
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1080,
+        1090
+      ],
+      "occurrences": 1,
+      "total_time": 0.3362733
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        115,
+        105,
+        99
+      ],
+      "occurrences": 3,
+      "total_time": 0.8683985
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1078
+      ],
+      "occurrences": 1,
+      "total_time": 0.3110284
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        110,
+        32,
+        116
+      ],
+      "occurrences": 1,
+      "total_time": 0.1388654
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        105,
+        99,
+        32
+      ],
+      "occurrences": 3,
+      "total_time": 0.7770569
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        121,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.1400047
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        32,
+        105
+      ],
+      "occurrences": 1,
+      "total_time": 0.1659303
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        103,
+        101,
+        116
+      ],
+      "occurrences": 4,
+      "total_time": 1.0563233
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        99,
+        32,
+        101
+      ],
+      "occurrences": 1,
+      "total_time": 0.1999935
+    },
+    {
+      "attempts": 3,
+      "errors": 1,
+      "gram": [
+        116,
+        32,
+        103
+      ],
+      "occurrences": 2,
+      "total_time": 0.6280713
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        101,
+        118
+      ],
+      "occurrences": 3,
+      "total_time": 0.7671946
+    },
+    {
+      "attempts": 10,
+      "errors": 0,
+      "gram": [
+        118,
+        101
+      ],
+      "occurrences": 10,
+      "total_time": 0.872301
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        101,
+        118,
+        101
+      ],
+      "occurrences": 3,
+      "total_time": 0.2570899
+    },
+    {
+      "attempts": 7,
+      "errors": 0,
+      "gram": [
+        101,
+        110
+      ],
+      "occurrences": 7,
+      "total_time": 2.3860064
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        100,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.2397983
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1083,
+        1086,
+        1074
+      ],
+      "occurrences": 1,
+      "total_time": 0.2904704
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        101,
+        110,
+        32
+      ],
+      "occurrences": 6,
+      "total_time": 1.5777291999999998
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        1087
+      ],
+      "occurrences": 4,
+      "total_time": 1.0546643
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        103,
+        117
+      ],
+      "occurrences": 1,
+      "total_time": 0.2551944
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        118,
+        101,
+        110
+      ],
+      "occurrences": 3,
+      "total_time": 0.9116882
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1089
+      ],
+      "occurrences": 1,
+      "total_time": 0.4359026
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        108,
+        105,
+        107
+      ],
+      "occurrences": 3,
+      "total_time": 1.0332358
+    },
+    {
+      "attempts": 12,
+      "errors": 0,
+      "gram": [
+        110,
+        32
+      ],
+      "occurrences": 12,
+      "total_time": 3.2878519
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        107,
+        101,
+        32
+      ],
+      "occurrences": 4,
+      "total_time": 0.9275356
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        32,
+        105
+      ],
+      "occurrences": 6,
+      "total_time": 1.3858405
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        97,
+        99,
+        107
+      ],
+      "occurrences": 1,
+      "total_time": 0.5064048
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1074,
+        1099
+      ],
+      "occurrences": 1,
+      "total_time": 0.1146175
+    },
+    {
+      "attempts": 11,
+      "errors": 1,
+      "gram": [
+        104,
+        97
+      ],
+      "occurrences": 10,
+      "total_time": 1.3758099
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        110,
+        32,
+        119
+      ],
+      "occurrences": 5,
+      "total_time": 1.2084834999999998
+    },
+    {
+      "attempts": 7,
+      "errors": 0,
+      "gram": [
+        1077
+      ],
+      "occurrences": 7,
+      "total_time": 1.1605386
+    },
+    {
+      "attempts": 10,
+      "errors": 0,
+      "gram": [
+        119,
+        104
+      ],
+      "occurrences": 10,
+      "total_time": 2.4701113
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        105,
+        102
+      ],
+      "occurrences": 2,
+      "total_time": 0.4006802
+    },
+    {
+      "attempts": 9,
+      "errors": 0,
+      "gram": [
+        32,
+        119,
+        104
+      ],
+      "occurrences": 9,
+      "total_time": 2.2760364
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        116,
+        32,
+        99
+      ],
+      "occurrences": 3,
+      "total_time": 0.9426992
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1091,
+        32,
+        1076
+      ],
+      "occurrences": 1,
+      "total_time": 0.2151303
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        104,
+        111,
+        32
+      ],
+      "occurrences": 4,
+      "total_time": 0.8418573
+    },
+    {
+      "attempts": 20,
+      "errors": 1,
+      "gram": [
+        101,
+        114
+      ],
+      "occurrences": 19,
+      "total_time": 3.5150217000000006
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        103,
+        111,
+        111
+      ],
+      "occurrences": 6,
+      "total_time": 0.9008094
+    },
+    {
+      "attempts": 9,
+      "errors": 1,
+      "gram": [
+        104,
+        111
+      ],
+      "occurrences": 8,
+      "total_time": 2.0020441
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        101,
+        97,
+        100
+      ],
+      "occurrences": 2,
+      "total_time": 0.572055
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1090,
+        1072
+      ],
+      "occurrences": 1,
+      "total_time": 0.0597935
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        115,
+        99
+      ],
+      "occurrences": 2,
+      "total_time": 0.5159083
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        101,
+        101,
+        32
+      ],
+      "occurrences": 3,
+      "total_time": 0.776669
+    },
+    {
+      "attempts": 5,
+      "errors": 1,
+      "gram": [
+        119,
+        104,
+        111
+      ],
+      "occurrences": 4,
+      "total_time": 0.9432721
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        98,
+        97,
+        99
+      ],
+      "occurrences": 1,
+      "total_time": 0.4813815
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1084
+      ],
+      "occurrences": 1,
+      "total_time": 0.3056514
+    },
+    {
+      "attempts": 12,
+      "errors": 0,
+      "gram": [
+        119,
+        111
+      ],
+      "occurrences": 12,
+      "total_time": 2.0030136
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        119,
+        32,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.2758825
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        98,
+        111,
+        117
+      ],
+      "occurrences": 2,
+      "total_time": 0.5118551
+    },
+    {
+      "attempts": 11,
+      "errors": 0,
+      "gram": [
+        32,
+        119,
+        111
+      ],
+      "occurrences": 11,
+      "total_time": 1.8332899999999999
+    },
+    {
+      "attempts": 8,
+      "errors": 0,
+      "gram": [
+        108,
+        100,
+        32
+      ],
+      "occurrences": 8,
+      "total_time": 1.8437650999999997
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        32,
+        109,
+        111
+      ],
+      "occurrences": 3,
+      "total_time": 0.6624099999999999
+    },
+    {
+      "attempts": 48,
+      "errors": 4,
+      "gram": [
+        114
+      ],
+      "occurrences": 42,
+      "total_time": 8.477625899999998
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        108,
+        105,
+        103
+      ],
+      "occurrences": 2,
+      "total_time": 0.5913904999999999
+    },
+    {
+      "attempts": 15,
+      "errors": 2,
+      "gram": [
+        111,
+        114
+      ],
+      "occurrences": 13,
+      "total_time": 2.9018092999999996
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        121,
+        32,
+        100
+      ],
+      "occurrences": 1,
+      "total_time": 0.1849932
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1091,
+        1089
+      ],
+      "occurrences": 1,
+      "total_time": 0.3806014
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1073,
+        1099
+      ],
+      "occurrences": 1,
+      "total_time": 0.1699869
+    },
+    {
+      "attempts": 9,
+      "errors": 1,
+      "gram": [
+        119,
+        111,
+        114
+      ],
+      "occurrences": 8,
+      "total_time": 1.5144655
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        110,
+        100
+      ],
+      "occurrences": 5,
+      "total_time": 0.8369538
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        119,
+        32,
+        109
+      ],
+      "occurrences": 1,
+      "total_time": 0.3308173
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        1095,
+        1077
+      ],
+      "occurrences": 2,
+      "total_time": 0.2649895
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        65,
+        98,
+        111
+      ],
+      "occurrences": 3,
+      "total_time": 2.1563315000000003
+    },
+    {
+      "attempts": 31,
+      "errors": 3,
+      "gram": [
+        108
+      ],
+      "occurrences": 27,
+      "total_time": 7.1501519999999985
+    },
+    {
+      "attempts": 4,
+      "errors": 1,
+      "gram": [
+        112,
+        108
+      ],
+      "occurrences": 3,
+      "total_time": 0.5663319
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        114,
+        108
+      ],
+      "occurrences": 4,
+      "total_time": 0.8422284999999999
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        111,
+        114,
+        108
+      ],
+      "occurrences": 4,
+      "total_time": 0.8422284999999999
+    },
+    {
+      "attempts": 3,
+      "errors": 1,
+      "gram": [
+        117,
+        109
+      ],
+      "occurrences": 2,
+      "total_time": 0.6106685000000001
+    },
+    {
+      "attempts": 8,
+      "errors": 0,
+      "gram": [
+        108,
+        100
+      ],
+      "occurrences": 8,
+      "total_time": 1.6496016000000002
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        99,
+        107,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 1.0423551
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1099,
+        1081,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.6062448
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        114,
+        108,
+        100
+      ],
+      "occurrences": 4,
+      "total_time": 0.7316916
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        119,
+        105,
+        116
+      ],
+      "occurrences": 4,
+      "total_time": 1.0242571
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        100,
+        32,
+        112
+      ],
+      "occurrences": 1,
+      "total_time": 0.2455879
+    },
+    {
+      "attempts": 20,
+      "errors": 0,
+      "gram": [
+        100,
+        32
+      ],
+      "occurrences": 20,
+      "total_time": 5.1531897
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        121,
+        101,
+        97
+      ],
+      "occurrences": 2,
+      "total_time": 0.4569299
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        100,
+        32,
+        105
+      ],
+      "occurrences": 2,
+      "total_time": 0.3969903
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        109,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.5512668000000001
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        1076,
+        1086
+      ],
+      "occurrences": 2,
+      "total_time": 0.3814352
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        101,
+        32,
+        111
+      ],
+      "occurrences": 2,
+      "total_time": 0.4062472
+    },
+    {
+      "attempts": 8,
+      "errors": 0,
+      "gram": [
+        110,
+        116
+      ],
+      "occurrences": 8,
+      "total_time": 2.3654246999999997
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        100,
+        32,
+        119
+      ],
+      "occurrences": 1,
+      "total_time": 0.4571481
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        112,
+        97,
+        114
+      ],
+      "occurrences": 2,
+      "total_time": 0.2658221
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        97,
+        114
+      ],
+      "occurrences": 5,
+      "total_time": 0.8570782
+    },
+    {
+      "attempts": 8,
+      "errors": 0,
+      "gram": [
+        105,
+        110,
+        116
+      ],
+      "occurrences": 8,
+      "total_time": 2.3654246999999997
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        99,
+        104,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.6011389
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        116,
+        111
+      ],
+      "occurrences": 5,
+      "total_time": 0.9933122
+    },
+    {
+      "attempts": 6,
+      "errors": 1,
+      "gram": [
+        111,
+        100
+      ],
+      "occurrences": 5,
+      "total_time": 0.9533245
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        110,
+        107
+      ],
+      "occurrences": 1,
+      "total_time": 0.5022194
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        110,
+        116,
+        111
+      ],
+      "occurrences": 2,
+      "total_time": 0.2862393
+    },
+    {
+      "attempts": 3,
+      "errors": 1,
+      "gram": [
+        101,
+        32,
+        112
+      ],
+      "occurrences": 2,
+      "total_time": 0.9970044
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1077,
+        1088
+      ],
+      "occurrences": 2,
+      "total_time": 0.5073698
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        116,
+        111,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.3347738
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        111,
+        100,
+        32
+      ],
+      "occurrences": 5,
+      "total_time": 1.2586844000000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1079,
+        32,
+        1084
+      ],
+      "occurrences": 1,
+      "total_time": 0.3056514
+    },
+    {
+      "attempts": 20,
+      "errors": 1,
+      "gram": [
+        103
+      ],
+      "occurrences": 17,
+      "total_time": 4.966841
+    },
+    {
+      "attempts": 2,
+      "errors": 1,
+      "gram": [
+        98,
+        117
+      ],
+      "occurrences": 1,
+      "total_time": 0.3562602
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        112,
+        32,
+        103
+      ],
+      "occurrences": 1,
+      "total_time": 0.3205344
+    },
+    {
+      "attempts": 15,
+      "errors": 1,
+      "gram": [
+        32,
+        103
+      ],
+      "occurrences": 14,
+      "total_time": 4.1248154999999995
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        97,
+        99,
+        101
+      ],
+      "occurrences": 3,
+      "total_time": 0.3537239
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        32,
+        103
+      ],
+      "occurrences": 1,
+      "total_time": 0.3012828
+    },
+    {
+      "attempts": 9,
+      "errors": 0,
+      "gram": [
+        103,
+        111
+      ],
+      "occurrences": 9,
+      "total_time": 1.7652286000000001
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        104,
+        111,
+        111
+      ],
+      "occurrences": 2,
+      "total_time": 0.3559856
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        103,
+        111,
+        32
+      ],
+      "occurrences": 3,
+      "total_time": 0.5393102000000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        109,
+        32,
+        106
+      ],
+      "occurrences": 1,
+      "total_time": 0.3406491
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        32,
+        102,
+        97
+      ],
+      "occurrences": 4,
+      "total_time": 0.5011301
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        111,
+        32,
+        104
+      ],
+      "occurrences": 3,
+      "total_time": 1.0817537
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        104,
+        105
+      ],
+      "occurrences": 6,
+      "total_time": 0.9794439999999999
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        104,
+        105
+      ],
+      "occurrences": 1,
+      "total_time": 0.1411355
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        105,
+        109
+      ],
+      "occurrences": 1,
+      "total_time": 0.4210378
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        111,
+        114,
+        121
+      ],
+      "occurrences": 3,
+      "total_time": 0.9370571
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        104,
+        105,
+        109
+      ],
+      "occurrences": 1,
+      "total_time": 0.4210378
+    },
+    {
+      "attempts": 19,
+      "errors": 0,
+      "gram": [
+        32,
+        116,
+        104
+      ],
+      "occurrences": 19,
+      "total_time": 3.7130000000000005
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        102,
+        97,
+        99
+      ],
+      "occurrences": 2,
+      "total_time": 0.5580228
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        105,
+        109,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.280082
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        98,
+        116
+      ],
+      "occurrences": 1,
+      "total_time": 0.4909255
+    },
+    {
+      "attempts": 15,
+      "errors": 0,
+      "gram": [
+        102
+      ],
+      "occurrences": 15,
+      "total_time": 3.7523652
+    },
+    {
+      "attempts": 8,
+      "errors": 0,
+      "gram": [
+        32,
+        102
+      ],
+      "occurrences": 8,
+      "total_time": 2.3585252999999997
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        32,
+        100
+      ],
+      "occurrences": 1,
+      "total_time": 0.2662683
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        109,
+        32,
+        102
+      ],
+      "occurrences": 1,
+      "total_time": 0.2611769
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        111,
+        118
+      ],
+      "occurrences": 2,
+      "total_time": 0.4967612
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        102,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.1201603
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        102,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.1201603
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        105,
+        108,
+        108
+      ],
+      "occurrences": 1,
+      "total_time": 0.1612407
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        114,
+        105
+      ],
+      "occurrences": 1,
+      "total_time": 0.300954
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        102,
+        111,
+        114
+      ],
+      "occurrences": 1,
+      "total_time": 0.1705559
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        114,
+        32,
+        121
+      ],
+      "occurrences": 1,
+      "total_time": 0.2657947
+    },
+    {
+      "attempts": 5,
+      "errors": 1,
+      "gram": [
+        32,
+        111,
+        116
+      ],
+      "occurrences": 4,
+      "total_time": 1.8747983999999998
+    },
+    {
+      "attempts": 21,
+      "errors": 0,
+      "gram": [
+        114,
+        32
+      ],
+      "occurrences": 21,
+      "total_time": 5.6908688000000005
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        105,
+        107
+      ],
+      "occurrences": 3,
+      "total_time": 1.0332358
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1072,
+        1090
+      ],
+      "occurrences": 1,
+      "total_time": 0.2189211
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        111,
+        114,
+        32
+      ],
+      "occurrences": 3,
+      "total_time": 0.5962463
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        114,
+        32,
+        111
+      ],
+      "occurrences": 3,
+      "total_time": 0.567888
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        108,
+        97
+      ],
+      "occurrences": 3,
+      "total_time": 0.4915974
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        112,
+        108,
+        97
+      ],
+      "occurrences": 3,
+      "total_time": 0.4915974
+    },
+    {
+      "attempts": 6,
+      "errors": 1,
+      "gram": [
+        111,
+        116
+      ],
+      "occurrences": 5,
+      "total_time": 2.0197374999999997
+    },
+    {
+      "attempts": 29,
+      "errors": 0,
+      "gram": [
+        116,
+        104
+      ],
+      "occurrences": 29,
+      "total_time": 5.522995
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        107,
+        32,
+        103
+      ],
+      "occurrences": 2,
+      "total_time": 0.8111802
+    },
+    {
+      "attempts": 18,
+      "errors": 0,
+      "gram": [
+        116,
+        104,
+        101
+      ],
+      "occurrences": 18,
+      "total_time": 3.1508091999999994
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        102,
+        105
+      ],
+      "occurrences": 1,
+      "total_time": 0.1588357
+    },
+    {
+      "attempts": 11,
+      "errors": 1,
+      "gram": [
+        104,
+        101,
+        114
+      ],
+      "occurrences": 10,
+      "total_time": 2.0778323
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        103,
+        104
+      ],
+      "occurrences": 2,
+      "total_time": 0.4398179
+    },
+    {
+      "attempts": 14,
+      "errors": 0,
+      "gram": [
+        101,
+        114,
+        32
+      ],
+      "occurrences": 14,
+      "total_time": 4.1575617
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        32,
+        115,
+        116
+      ],
+      "occurrences": 3,
+      "total_time": 0.7409569
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        114,
+        111
+      ],
+      "occurrences": 2,
+      "total_time": 0.3874245
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        111,
+        114
+      ],
+      "occurrences": 2,
+      "total_time": 0.3898544
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        32,
+        108
+      ],
+      "occurrences": 6,
+      "total_time": 1.9602526
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        116,
+        104,
+        32
+      ],
+      "occurrences": 4,
+      "total_time": 1.2335406
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        114,
+        32,
+        108
+      ],
+      "occurrences": 1,
+      "total_time": 0.1566737
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        110,
+        107,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2800339
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        114,
+        32,
+        103
+      ],
+      "occurrences": 2,
+      "total_time": 0.6355642
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1080,
+        1085,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.21035
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        108,
+        105
+      ],
+      "occurrences": 6,
+      "total_time": 1.7482462
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        103,
+        114
+      ],
+      "occurrences": 1,
+      "total_time": 0.1599218
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        32,
+        108,
+        105
+      ],
+      "occurrences": 5,
+      "total_time": 1.4667745
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        32,
+        117
+      ],
+      "occurrences": 5,
+      "total_time": 1.6280947000000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        98,
+        121
+      ],
+      "occurrences": 1,
+      "total_time": 0.1897417
+    },
+    {
+      "attempts": 16,
+      "errors": 0,
+      "gram": [
+        107
+      ],
+      "occurrences": 16,
+      "total_time": 4.5277058
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        117,
+        98
+      ],
+      "occurrences": 1,
+      "total_time": 0.4209605
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        105,
+        107,
+        101
+      ],
+      "occurrences": 3,
+      "total_time": 0.5714267
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        108,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.3012764
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1085,
+        32,
+        1078
+      ],
+      "occurrences": 1,
+      "total_time": 0.3110284
+    },
+    {
+      "attempts": 12,
+      "errors": 0,
+      "gram": [
+        32,
+        115
+      ],
+      "occurrences": 12,
+      "total_time": 3.2791614
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        1095
+      ],
+      "occurrences": 2,
+      "total_time": 0.4709909
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        105,
+        108,
+        121
+      ],
+      "occurrences": 2,
+      "total_time": 0.3849905
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1072,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.7870817000000001
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        104,
+        101,
+        97
+      ],
+      "occurrences": 2,
+      "total_time": 0.2906822
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        32,
+        115
+      ],
+      "occurrences": 1,
+      "total_time": 0.1758304
+    },
+    {
+      "attempts": 4,
+      "errors": 1,
+      "gram": [
+        32,
+        112,
+        108
+      ],
+      "occurrences": 3,
+      "total_time": 0.5663319
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1072,
+        1084
+      ],
+      "occurrences": 2,
+      "total_time": 0.5824885
+    },
+    {
+      "attempts": 10,
+      "errors": 0,
+      "gram": [
+        115,
+        116
+      ],
+      "occurrences": 10,
+      "total_time": 2.3705637
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        103
+      ],
+      "occurrences": 1,
+      "total_time": 0.250635
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        115,
+        116,
+        111
+      ],
+      "occurrences": 3,
+      "total_time": 0.7070729
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1072,
+        1096,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2710392
+    },
+    {
+      "attempts": 19,
+      "errors": 1,
+      "gram": [
+        121
+      ],
+      "occurrences": 16,
+      "total_time": 4.419427799999999
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        114,
+        121
+      ],
+      "occurrences": 4,
+      "total_time": 1.0720524
+    },
+    {
+      "attempts": 13,
+      "errors": 0,
+      "gram": [
+        121,
+        32
+      ],
+      "occurrences": 13,
+      "total_time": 4.797336700000002
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        111,
+        107
+      ],
+      "occurrences": 1,
+      "total_time": 0.2251853
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1089,
+        1083,
+        1077
+      ],
+      "occurrences": 1,
+      "total_time": 0.1851091
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        114,
+        121,
+        32
+      ],
+      "occurrences": 3,
+      "total_time": 1.7543303
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        97,
+        116,
+        101
+      ],
+      "occurrences": 4,
+      "total_time": 0.4811655
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        121,
+        32,
+        105
+      ],
+      "occurrences": 1,
+      "total_time": 0.4309813
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        32,
+        99
+      ],
+      "occurrences": 6,
+      "total_time": 1.8604659
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        108,
+        32,
+        97
+      ],
+      "occurrences": 1,
+      "total_time": 0.2461813
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        110,
+        32,
+        99
+      ],
+      "occurrences": 1,
+      "total_time": 0.2160481
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        99,
+        111
+      ],
+      "occurrences": 3,
+      "total_time": 0.4105567
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        100,
+        97,
+        121
+      ],
+      "occurrences": 1,
+      "total_time": 0.2650454
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1086,
+        1090
+      ],
+      "occurrences": 2,
+      "total_time": 0.7230099999999999
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        32,
+        99,
+        111
+      ],
+      "occurrences": 3,
+      "total_time": 0.4105567
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        108,
+        32
+      ],
+      "occurrences": 4,
+      "total_time": 0.9170043000000001
+    },
+    {
+      "attempts": 10,
+      "errors": 2,
+      "gram": [
+        111,
+        117
+      ],
+      "occurrences": 8,
+      "total_time": 2.171945
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1074,
+        1077,
+        1082
+      ],
+      "occurrences": 1,
+      "total_time": 0.2617944
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        99,
+        111,
+        117
+      ],
+      "occurrences": 2,
+      "total_time": 0.41580059999999996
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        117,
+        108
+      ],
+      "occurrences": 5,
+      "total_time": 1.2489011
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        114,
+        32,
+        107
+      ],
+      "occurrences": 1,
+      "total_time": 0.3009923
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        32,
+        111,
+        102
+      ],
+      "occurrences": 3,
+      "total_time": 0.4750333
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        105,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.2815126
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        111,
+        117,
+        108
+      ],
+      "occurrences": 3,
+      "total_time": 0.8018187
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        117,
+        108,
+        100
+      ],
+      "occurrences": 4,
+      "total_time": 0.91791
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        100,
+        32,
+        99
+      ],
+      "occurrences": 1,
+      "total_time": 0.3808953
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        121,
+        101
+      ],
+      "occurrences": 2,
+      "total_time": 0.48004030000000003
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1077,
+        1083,
+        1086
+      ],
+      "occurrences": 1,
+      "total_time": 0.4459603
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        32,
+        99
+      ],
+      "occurrences": 1,
+      "total_time": 0.3208233
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1072,
+        1084,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.1989704
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        99,
+        97
+      ],
+      "occurrences": 5,
+      "total_time": 0.7961109000000001
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        97,
+        118,
+        101
+      ],
+      "occurrences": 2,
+      "total_time": 0.1959296
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        32,
+        99,
+        97
+      ],
+      "occurrences": 3,
+      "total_time": 0.5606961
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1077,
+        1079
+      ],
+      "occurrences": 1,
+      "total_time": 0.1805601
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        102,
+        32,
+        116
+      ],
+      "occurrences": 1,
+      "total_time": 0.2552364
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        97,
+        115
+      ],
+      "occurrences": 5,
+      "total_time": 1.5242946
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1072,
+        1074
+      ],
+      "occurrences": 1,
+      "total_time": 0.1504459
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        99,
+        97,
+        115
+      ],
+      "occurrences": 3,
+      "total_time": 0.8834574
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        32,
+        117,
+        115
+      ],
+      "occurrences": 3,
+      "total_time": 0.5648217999999999
+    },
+    {
+      "attempts": 15,
+      "errors": 0,
+      "gram": [
+        115,
+        101
+      ],
+      "occurrences": 15,
+      "total_time": 1.4412817000000002
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        119,
+        104,
+        105
+      ],
+      "occurrences": 2,
+      "total_time": 0.2761161
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        32,
+        97
+      ],
+      "occurrences": 6,
+      "total_time": 1.2038715
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1089,
+        1072,
+        1084
+      ],
+      "occurrences": 1,
+      "total_time": 0.2364859
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        101,
+        32,
+        97
+      ],
+      "occurrences": 2,
+      "total_time": 0.32123789999999997
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        97,
+        110
+      ],
+      "occurrences": 5,
+      "total_time": 1.5546633
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        102,
+        105
+      ],
+      "occurrences": 1,
+      "total_time": 0.1588357
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        97,
+        110
+      ],
+      "occurrences": 2,
+      "total_time": 0.5714735
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        107,
+        32,
+        116
+      ],
+      "occurrences": 3,
+      "total_time": 0.9975189
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        97,
+        110,
+        100
+      ],
+      "occurrences": 4,
+      "total_time": 0.6873083
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        100,
+        32,
+        111
+      ],
+      "occurrences": 2,
+      "total_time": 0.3746362
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1089,
+        1083
+      ],
+      "occurrences": 1,
+      "total_time": 0.2007829
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1076
+      ],
+      "occurrences": 1,
+      "total_time": 0.1760415
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        110,
+        100,
+        32
+      ],
+      "occurrences": 5,
+      "total_time": 1.5694861
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        100,
+        32,
+        104
+      ],
+      "occurrences": 2,
+      "total_time": 0.7268714000000001
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        32,
+        104,
+        97
+      ],
+      "occurrences": 4,
+      "total_time": 0.4660099
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        99,
+        116
+      ],
+      "occurrences": 2,
+      "total_time": 0.3434888
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        99,
+        116,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.33062020000000003
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        104,
+        97,
+        110
+      ],
+      "occurrences": 3,
+      "total_time": 0.9831898000000001
+    },
+    {
+      "attempts": 2,
+      "errors": 1,
+      "gram": [
+        32,
+        98,
+        117
+      ],
+      "occurrences": 1,
+      "total_time": 0.3562602
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        100,
+        32,
+        117
+      ],
+      "occurrences": 1,
+      "total_time": 0.4659922
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        102,
+        32,
+        119
+      ],
+      "occurrences": 1,
+      "total_time": 0.2161411
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1072,
+        1073
+      ],
+      "occurrences": 1,
+      "total_time": 0.1448511
+    },
+    {
+      "attempts": 16,
+      "errors": 2,
+      "gram": [
+        112
+      ],
+      "occurrences": 13,
+      "total_time": 3.5277966
+    },
+    {
+      "attempts": 5,
+      "errors": 1,
+      "gram": [
+        1100
+      ],
+      "occurrences": 3,
+      "total_time": 0.8712588
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        114,
+        32,
+        119
+      ],
+      "occurrences": 4,
+      "total_time": 1.0221468
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        110,
+        111,
+        116
+      ],
+      "occurrences": 1,
+      "total_time": 0.1449391
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        108,
+        121
+      ],
+      "occurrences": 3,
+      "total_time": 0.5960354
+    },
+    {
+      "attempts": 3,
+      "errors": 1,
+      "gram": [
+        117,
+        112
+      ],
+      "occurrences": 2,
+      "total_time": 0.5458613999999999
+    },
+    {
+      "attempts": 2,
+      "errors": 1,
+      "gram": [
+        32,
+        117,
+        112
+      ],
+      "occurrences": 1,
+      "total_time": 0.135793
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1088,
+        1077
+      ],
+      "occurrences": 1,
+      "total_time": 0.0902412
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        109,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2711848
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        104,
+        105,
+        99
+      ],
+      "occurrences": 2,
+      "total_time": 0.4994705
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1090,
+        1072,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2502553
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        105,
+        99,
+        104
+      ],
+      "occurrences": 2,
+      "total_time": 0.45684749999999996
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        104,
+        32
+      ],
+      "occurrences": 6,
+      "total_time": 1.8346795
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        104,
+        32,
+        119
+      ],
+      "occurrences": 1,
+      "total_time": 0.2001802
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1081,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2449153
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        119,
+        105
+      ],
+      "occurrences": 5,
+      "total_time": 1.0459282
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        32,
+        119,
+        105
+      ],
+      "occurrences": 5,
+      "total_time": 1.0459282
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        105,
+        108
+      ],
+      "occurrences": 3,
+      "total_time": 1.0478137
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        119,
+        105,
+        108
+      ],
+      "occurrences": 1,
+      "total_time": 0.3608582
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        117,
+        101
+      ],
+      "occurrences": 1,
+      "total_time": 0.4816082
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        108,
+        108
+      ],
+      "occurrences": 2,
+      "total_time": 0.32131489999999996
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        108,
+        108,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.3560398
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        108,
+        32,
+        105
+      ],
+      "occurrences": 1,
+      "total_time": 0.1910747
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        105,
+        102
+      ],
+      "occurrences": 3,
+      "total_time": 0.6726162
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        98,
+        116,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.5322447
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        102,
+        32
+      ],
+      "occurrences": 5,
+      "total_time": 0.9870292999999999
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1089,
+        1095
+      ],
+      "occurrences": 1,
+      "total_time": 0.2947739
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        105,
+        102,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.4365871
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1073,
+        1072,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.5368264
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        102,
+        32,
+        103
+      ],
+      "occurrences": 2,
+      "total_time": 0.5222922999999999
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        100,
+        32,
+        101
+      ],
+      "occurrences": 1,
+      "total_time": 0.2397589
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        109,
+        111,
+        115
+      ],
+      "occurrences": 3,
+      "total_time": 0.6463825
+    },
+    {
+      "attempts": 9,
+      "errors": 0,
+      "gram": [
+        111,
+        111
+      ],
+      "occurrences": 9,
+      "total_time": 1.4076922
+    },
+    {
+      "attempts": 6,
+      "errors": 1,
+      "gram": [
+        111,
+        111,
+        100
+      ],
+      "occurrences": 5,
+      "total_time": 0.9533245
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        107,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.1747668
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        1080
+      ],
+      "occurrences": 4,
+      "total_time": 1.1416591999999999
+    },
+    {
+      "attempts": 19,
+      "errors": 2,
+      "gram": [
+        98
+      ],
+      "occurrences": 15,
+      "total_time": 5.331337899999999
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1077,
+        1079,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.1302789
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        110,
+        32,
+        98
+      ],
+      "occurrences": 2,
+      "total_time": 1.1583407
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        104,
+        116
+      ],
+      "occurrences": 2,
+      "total_time": 0.5128219
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        97,
+        99
+      ],
+      "occurrences": 6,
+      "total_time": 2.1279785
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        99,
+        107
+      ],
+      "occurrences": 1,
+      "total_time": 0.5064048
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        114,
+        116,
+        46
+      ],
+      "occurrences": 1,
+      "total_time": 0.5010989
+    },
+    {
+      "attempts": 8,
+      "errors": 1,
+      "gram": [
+        111,
+        119,
+        32
+      ],
+      "occurrences": 7,
+      "total_time": 1.8575776000000002
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1086,
+        1085
+      ],
+      "occurrences": 1,
+      "total_time": 0.3205643
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        98,
+        121,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2411309
+    },
+    {
+      "attempts": 8,
+      "errors": 0,
+      "gram": [
+        107,
+        32
+      ],
+      "occurrences": 8,
+      "total_time": 2.8158697999999998
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        97,
+        109
+      ],
+      "occurrences": 1,
+      "total_time": 0.8109816
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1074,
+        1099,
+        1081
+      ],
+      "occurrences": 1,
+      "total_time": 0.3958117
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        107,
+        32,
+        119
+      ],
+      "occurrences": 1,
+      "total_time": 0.2957447
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        116,
+        119,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.1697236
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        111,
+        115
+      ],
+      "occurrences": 3,
+      "total_time": 0.6463825
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1085,
+        1080
+      ],
+      "occurrences": 1,
+      "total_time": 0.3449272
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        105,
+        116,
+        104
+      ],
+      "occurrences": 4,
+      "total_time": 0.9664284000000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        102,
+        114,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.1411282
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        104,
+        32,
+        115
+      ],
+      "occurrences": 1,
+      "total_time": 0.1515753
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        115,
+        111
+      ],
+      "occurrences": 2,
+      "total_time": 0.3236818
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        104,
+        116,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.45560520000000004
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        84,
+        104
+      ],
+      "occurrences": 1,
+      "total_time": 0.3508673
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        115,
+        111
+      ],
+      "occurrences": 2,
+      "total_time": 0.3236818
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        101,
+        121,
+        32
+      ],
+      "occurrences": 3,
+      "total_time": 0.7950104
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        102,
+        116
+      ],
+      "occurrences": 1,
+      "total_time": 0.2948091
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        111,
+        109
+      ],
+      "occurrences": 5,
+      "total_time": 1.0126903
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1090,
+        1072
+      ],
+      "occurrences": 2,
+      "total_time": 0.1906632
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1073,
+        1072
+      ],
+      "occurrences": 1,
+      "total_time": 0.4260704
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        115,
+        111,
+        109
+      ],
+      "occurrences": 2,
+      "total_time": 0.416348
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        109,
+        101
+      ],
+      "occurrences": 6,
+      "total_time": 1.0544029
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        102,
+        116,
+        101
+      ],
+      "occurrences": 1,
+      "total_time": 0.1110344
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        111,
+        109,
+        101
+      ],
+      "occurrences": 4,
+      "total_time": 0.6900205
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        109,
+        101,
+        32
+      ],
+      "occurrences": 5,
+      "total_time": 1.4055131
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        114,
+        111,
+        117
+      ],
+      "occurrences": 1,
+      "total_time": 0.606096
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        111,
+        115,
+        116
+      ],
+      "occurrences": 3,
+      "total_time": 0.6697328
+    },
+    {
+      "attempts": 22,
+      "errors": 1,
+      "gram": [
+        32,
+        116
+      ],
+      "occurrences": 21,
+      "total_time": 5.388120000000001
+    },
+    {
+      "attempts": 8,
+      "errors": 1,
+      "gram": [
+        110,
+        111
+      ],
+      "occurrences": 7,
+      "total_time": 1.3089785
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        113,
+        117,
+        101
+      ],
+      "occurrences": 1,
+      "total_time": 0.4816082
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        101,
+        32,
+        116
+      ],
+      "occurrences": 4,
+      "total_time": 0.9279946
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1082
+      ],
+      "occurrences": 1,
+      "total_time": 0.2617944
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        116,
+        32,
+        98
+      ],
+      "occurrences": 2,
+      "total_time": 0.5258175
+    },
+    {
+      "attempts": 4,
+      "errors": 2,
+      "gram": [
+        101,
+        115
+      ],
+      "occurrences": 2,
+      "total_time": 0.5841178
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        103,
+        105
+      ],
+      "occurrences": 3,
+      "total_time": 0.3603849
+    },
+    {
+      "attempts": 3,
+      "errors": 1,
+      "gram": [
+        104,
+        101,
+        115
+      ],
+      "occurrences": 2,
+      "total_time": 0.5841178
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        1090,
+        1100,
+        32
+      ],
+      "occurrences": 3,
+      "total_time": 0.8491001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        104,
+        32,
+        104
+      ],
+      "occurrences": 1,
+      "total_time": 0.3159353
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        115,
+        99
+      ],
+      "occurrences": 2,
+      "total_time": 0.5159083
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        104,
+        111,
+        119
+      ],
+      "occurrences": 1,
+      "total_time": 0.1796285
+    },
+    {
+      "attempts": 8,
+      "errors": 1,
+      "gram": [
+        111,
+        119
+      ],
+      "occurrences": 7,
+      "total_time": 1.6088521999999998
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        121,
+        32,
+        112
+      ],
+      "occurrences": 1,
+      "total_time": 0.2199944
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        111,
+        102
+      ],
+      "occurrences": 3,
+      "total_time": 0.4750333
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1084,
+        32,
+        1093
+      ],
+      "occurrences": 1,
+      "total_time": 0.2772743
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        111,
+        102,
+        32
+      ],
+      "occurrences": 3,
+      "total_time": 0.5504422
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1096,
+        32,
+        1089
+      ],
+      "occurrences": 1,
+      "total_time": 0.4359026
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        100,
+        32,
+        116
+      ],
+      "occurrences": 4,
+      "total_time": 0.9625788
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1084,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.47481429999999997
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        104,
+        101,
+        32
+      ],
+      "occurrences": 3,
+      "total_time": 0.9773215
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1088,
+        1072,
+        1073
+      ],
+      "occurrences": 1,
+      "total_time": 0.1448511
+    },
+    {
+      "attempts": 12,
+      "errors": 1,
+      "gram": [
+        32,
+        112
+      ],
+      "occurrences": 11,
+      "total_time": 2.9819351999999997
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1088,
+        1072
+      ],
+      "occurrences": 2,
+      "total_time": 0.6397419
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        32,
+        112,
+        111
+      ],
+      "occurrences": 6,
+      "total_time": 1.1276340999999999
+    },
+    {
+      "attempts": 2,
+      "errors": 1,
+      "gram": [
+        110,
+        117,
+        109
+      ],
+      "occurrences": 1,
+      "total_time": 0.3706568
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        111,
+        105
+      ],
+      "occurrences": 6,
+      "total_time": 2.4010549
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        112,
+        111,
+        105
+      ],
+      "occurrences": 6,
+      "total_time": 2.4010549
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        109,
+        105,
+        108
+      ],
+      "occurrences": 2,
+      "total_time": 0.6869555
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        111,
+        105,
+        110
+      ],
+      "occurrences": 6,
+      "total_time": 1.5799575
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1072,
+        1096
+      ],
+      "occurrences": 1,
+      "total_time": 0.2351958
+    },
+    {
+      "attempts": 33,
+      "errors": 0,
+      "gram": [
+        116,
+        32
+      ],
+      "occurrences": 32,
+      "total_time": 7.991145100000001
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1076,
+        1086
+      ],
+      "occurrences": 2,
+      "total_time": 0.3814352
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        110,
+        116,
+        32
+      ],
+      "occurrences": 6,
+      "total_time": 1.5715526000000002
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        116,
+        32,
+        115
+      ],
+      "occurrences": 3,
+      "total_time": 0.6267199999999999
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        112,
+        32,
+        109
+      ],
+      "occurrences": 1,
+      "total_time": 0.3511296
+    },
+    {
+      "attempts": 10,
+      "errors": 0,
+      "gram": [
+        32,
+        109
+      ],
+      "occurrences": 10,
+      "total_time": 3.6043024999999997
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1073,
+        1099,
+        1090
+      ],
+      "occurrences": 1,
+      "total_time": 0.3210243
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        121,
+        32,
+        109
+      ],
+      "occurrences": 2,
+      "total_time": 0.8957596000000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1088,
+        1074
+      ],
+      "occurrences": 1,
+      "total_time": 0.3062416
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        117,
+        115,
+        116
+      ],
+      "occurrences": 2,
+      "total_time": 0.3219465
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        109,
+        111
+      ],
+      "occurrences": 4,
+      "total_time": 0.8735159000000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1089,
+        1095,
+        1080
+      ],
+      "occurrences": 1,
+      "total_time": 0.3463529
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        98,
+        101
+      ],
+      "occurrences": 2,
+      "total_time": 0.3158579
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        115,
+        116,
+        32
+      ],
+      "occurrences": 6,
+      "total_time": 1.3587818999999999
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        101,
+        101
+      ],
+      "occurrences": 4,
+      "total_time": 0.7783556
+    },
+    {
+      "attempts": 6,
+      "errors": 1,
+      "gram": [
+        116,
+        32,
+        116
+      ],
+      "occurrences": 5,
+      "total_time": 1.3595123
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        98,
+        117,
+        116
+      ],
+      "occurrences": 1,
+      "total_time": 0.370887
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        104,
+        101,
+        110
+      ],
+      "occurrences": 3,
+      "total_time": 0.9431904
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        114,
+        107
+      ],
+      "occurrences": 5,
+      "total_time": 0.9025282000000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1085,
+        1072,
+        1096
+      ],
+      "occurrences": 1,
+      "total_time": 0.2351958
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        111,
+        114,
+        107
+      ],
+      "occurrences": 4,
+      "total_time": 0.7451886000000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1087,
+        1086
+      ],
+      "occurrences": 1,
+      "total_time": 0.2899719
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        114,
+        107,
+        32
+      ],
+      "occurrences": 5,
+      "total_time": 1.318714
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1073,
+        1086,
+        1090
+      ],
+      "occurrences": 1,
+      "total_time": 0.3460542
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        117,
+        114
+      ],
+      "occurrences": 1,
+      "total_time": 0.3908726
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        97,
+        114,
+        116
+      ],
+      "occurrences": 3,
+      "total_time": 0.7660733000000001
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        114,
+        101
+      ],
+      "occurrences": 4,
+      "total_time": 0.7087864
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        101,
+        114,
+        101
+      ],
+      "occurrences": 4,
+      "total_time": 0.7087864
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        117,
+        114,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2502648
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        114,
+        101,
+        32
+      ],
+      "occurrences": 4,
+      "total_time": 1.1129099
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        101,
+        32,
+        103
+      ],
+      "occurrences": 3,
+      "total_time": 0.6999067999999999
+    },
+    {
+      "attempts": 14,
+      "errors": 0,
+      "gram": [
+        1086
+      ],
+      "occurrences": 14,
+      "total_time": 4.239567699999999
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        116,
+        101
+      ],
+      "occurrences": 5,
+      "total_time": 0.5921999
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        111,
+        110
+      ],
+      "occurrences": 5,
+      "total_time": 0.9918401000000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        114,
+        115
+      ],
+      "occurrences": 1,
+      "total_time": 0.3588899
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        32,
+        111,
+        110
+      ],
+      "occurrences": 4,
+      "total_time": 0.8224625
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        111,
+        110,
+        32
+      ],
+      "occurrences": 3,
+      "total_time": 0.8416868
+    },
+    {
+      "attempts": 5,
+      "errors": 1,
+      "gram": [
+        116,
+        104,
+        97
+      ],
+      "occurrences": 4,
+      "total_time": 0.6759398000000001
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        104,
+        97,
+        116
+      ],
+      "occurrences": 5,
+      "total_time": 1.0951607
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        97,
+        116,
+        32
+      ],
+      "occurrences": 6,
+      "total_time": 1.3862145000000001
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        116,
+        32,
+        104
+      ],
+      "occurrences": 3,
+      "total_time": 1.3891245
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        111,
+        111,
+        108
+      ],
+      "occurrences": 2,
+      "total_time": 0.6872628000000001
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        101,
+        121
+      ],
+      "occurrences": 3,
+      "total_time": 1.3131402
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        104,
+        101,
+        121
+      ],
+      "occurrences": 3,
+      "total_time": 1.3131402
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        100
+      ],
+      "occurrences": 2,
+      "total_time": 0.4512615
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        100,
+        97
+      ],
+      "occurrences": 1,
+      "total_time": 0.1259973
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        97,
+        121
+      ],
+      "occurrences": 1,
+      "total_time": 0.2650454
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        97,
+        121,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2209513
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        111,
+        98
+      ],
+      "occurrences": 3,
+      "total_time": 1.0357645
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        116,
+        105
+      ],
+      "occurrences": 1,
+      "total_time": 0.3655802
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        121,
+        32,
+        116
+      ],
+      "occurrences": 1,
+      "total_time": 0.2249958
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        117,
+        116
+      ],
+      "occurrences": 4,
+      "total_time": 1.6490241
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1095,
+        1080,
+        1090
+      ],
+      "occurrences": 1,
+      "total_time": 0.3362733
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        117,
+        116,
+        32
+      ],
+      "occurrences": 3,
+      "total_time": 0.93157
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        116,
+        32,
+        108
+      ],
+      "occurrences": 1,
+      "total_time": 0.3555987
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        119,
+        101,
+        108
+      ],
+      "occurrences": 1,
+      "total_time": 0.2560795
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1078,
+        1080
+      ],
+      "occurrences": 1,
+      "total_time": 0.1955713
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        114,
+        105,
+        101
+      ],
+      "occurrences": 1,
+      "total_time": 0.3051976
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        105,
+        103
+      ],
+      "occurrences": 2,
+      "total_time": 0.5913904999999999
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        105,
+        103,
+        104
+      ],
+      "occurrences": 2,
+      "total_time": 0.4398179
+    },
+    {
+      "attempts": 1,
+      "errors": 1,
+      "gram": [
+        110,
+        101,
+        32
+      ],
+      "occurrences": 0,
+      "total_time": 0.0
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        103,
+        104,
+        116
+      ],
+      "occurrences": 2,
+      "total_time": 0.5128219
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        101,
+        97
+      ],
+      "occurrences": 4,
+      "total_time": 0.7476121
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        116,
+        32,
+        112
+      ],
+      "occurrences": 2,
+      "total_time": 0.5501984
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        115,
+        109
+      ],
+      "occurrences": 1,
+      "total_time": 0.2861155
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        119,
+        104,
+        97
+      ],
+      "occurrences": 2,
+      "total_time": 0.2338602
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        108,
+        97,
+        99
+      ],
+      "occurrences": 3,
+      "total_time": 1.0885742
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        99,
+        101
+      ],
+      "occurrences": 3,
+      "total_time": 0.3537239
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1080,
+        1079,
+        1085
+      ],
+      "occurrences": 1,
+      "total_time": 0.2567689
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        99,
+        101,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.6281606
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1079,
+        1085
+      ],
+      "occurrences": 1,
+      "total_time": 0.2567689
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        119,
+        101
+      ],
+      "occurrences": 2,
+      "total_time": 0.18019849999999998
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        117,
+        112
+      ],
+      "occurrences": 1,
+      "total_time": 0.4100684
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        105,
+        115
+      ],
+      "occurrences": 2,
+      "total_time": 0.5406761
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        104,
+        105,
+        115
+      ],
+      "occurrences": 2,
+      "total_time": 0.5406761
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        115,
+        32
+      ],
+      "occurrences": 4,
+      "total_time": 1.1778637
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1084,
+        32,
+        1095
+      ],
+      "occurrences": 1,
+      "total_time": 0.2249093
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        98,
+        97,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2963886
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1095,
+        1077
+      ],
+      "occurrences": 2,
+      "total_time": 0.2649895
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        105,
+        115,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.5610310000000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1073,
+        1099
+      ],
+      "occurrences": 1,
+      "total_time": 0.1699869
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        115,
+        32,
+        112
+      ],
+      "occurrences": 1,
+      "total_time": 0.2058475
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        101,
+        115,
+        101
+      ],
+      "occurrences": 2,
+      "total_time": 0.20059330000000003
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        101,
+        32,
+        117
+      ],
+      "occurrences": 3,
+      "total_time": 0.821156
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        117,
+        112,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.5615374
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1090,
+        1077
+      ],
+      "occurrences": 1,
+      "total_time": 0.1352421
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        108,
+        121,
+        32
+      ],
+      "occurrences": 3,
+      "total_time": 1.3155897
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        111,
+        32,
+        111
+      ],
+      "occurrences": 2,
+      "total_time": 0.4648059
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        111,
+        116,
+        104
+      ],
+      "occurrences": 4,
+      "total_time": 0.6025707
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        114,
+        32,
+        102
+      ],
+      "occurrences": 2,
+      "total_time": 0.6219087
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1096,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2710392
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        105,
+        114
+      ],
+      "occurrences": 1,
+      "total_time": 0.2322519
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        110,
+        108,
+        121
+      ],
+      "occurrences": 1,
+      "total_time": 0.2110449
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        109,
+        117,
+        115
+      ],
+      "occurrences": 3,
+      "total_time": 1.3630811
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        105,
+        114,
+        115
+      ],
+      "occurrences": 1,
+      "total_time": 0.3588899
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        114,
+        115,
+        116
+      ],
+      "occurrences": 1,
+      "total_time": 0.3964342
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        98,
+        101,
+        114
+      ],
+      "occurrences": 2,
+      "total_time": 0.200039
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        32,
+        103,
+        105
+      ],
+      "occurrences": 3,
+      "total_time": 0.3603849
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        32,
+        110
+      ],
+      "occurrences": 6,
+      "total_time": 2.1923062
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        105,
+        118
+      ],
+      "occurrences": 3,
+      "total_time": 0.731733
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        103,
+        105,
+        118
+      ],
+      "occurrences": 3,
+      "total_time": 0.731733
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        105,
+        118,
+        101
+      ],
+      "occurrences": 3,
+      "total_time": 0.2293359
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        104,
+        111,
+        109
+      ],
+      "occurrences": 1,
+      "total_time": 0.2657151
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        103,
+        114,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.2462963
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        100,
+        32,
+        103
+      ],
+      "occurrences": 1,
+      "total_time": 0.2059835
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        118,
+        101,
+        32
+      ],
+      "occurrences": 5,
+      "total_time": 1.5557368999999999
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        101,
+        32,
+        102
+      ],
+      "occurrences": 3,
+      "total_time": 0.7732964
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        107
+      ],
+      "occurrences": 1,
+      "total_time": 0.2251853
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        102,
+        114
+      ],
+      "occurrences": 2,
+      "total_time": 0.4206704
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        102,
+        114
+      ],
+      "occurrences": 2,
+      "total_time": 0.4206704
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        1089
+      ],
+      "occurrences": 4,
+      "total_time": 1.3480137
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        102,
+        114,
+        105
+      ],
+      "occurrences": 1,
+      "total_time": 0.300954
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        105,
+        101
+      ],
+      "occurrences": 1,
+      "total_time": 0.3051976
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        101,
+        110,
+        100
+      ],
+      "occurrences": 1,
+      "total_time": 0.1496455
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        116,
+        97
+      ],
+      "occurrences": 1,
+      "total_time": 0.0908785
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        116,
+        97
+      ],
+      "occurrences": 1,
+      "total_time": 0.0908785
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        97,
+        107
+      ],
+      "occurrences": 1,
+      "total_time": 0.3751647
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        116,
+        97,
+        107
+      ],
+      "occurrences": 1,
+      "total_time": 0.3751647
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        97,
+        107,
+        101
+      ],
+      "occurrences": 1,
+      "total_time": 0.2040113
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        102,
+        97
+      ],
+      "occurrences": 4,
+      "total_time": 0.5011301
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        97,
+        99,
+        116
+      ],
+      "occurrences": 2,
+      "total_time": 0.3434888
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        32,
+        104,
+        101
+      ],
+      "occurrences": 5,
+      "total_time": 0.4774897
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1081,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.8511601
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        103,
+        114
+      ],
+      "occurrences": 1,
+      "total_time": 0.1599218
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        109,
+        101
+      ],
+      "occurrences": 2,
+      "total_time": 0.3643824
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        32,
+        115,
+        101
+      ],
+      "occurrences": 4,
+      "total_time": 0.4980733
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        115,
+        101,
+        101
+      ],
+      "occurrences": 4,
+      "total_time": 0.7783556
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        121,
+        32,
+        115
+      ],
+      "occurrences": 1,
+      "total_time": 0.2962872
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1072,
+        1074,
+        1086
+      ],
+      "occurrences": 1,
+      "total_time": 0.3961798
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        114,
+        111,
+        109
+      ],
+      "occurrences": 1,
+      "total_time": 0.1499552
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        106
+      ],
+      "occurrences": 1,
+      "total_time": 0.3406491
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        106
+      ],
+      "occurrences": 1,
+      "total_time": 0.3406491
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        106,
+        117
+      ],
+      "occurrences": 1,
+      "total_time": 0.2255094
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1099
+      ],
+      "occurrences": 2,
+      "total_time": 0.2846044
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        106,
+        117,
+        115
+      ],
+      "occurrences": 2,
+      "total_time": 0.3706998
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        101,
+        32,
+        121
+      ],
+      "occurrences": 2,
+      "total_time": 0.5768629000000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        116,
+        119
+      ],
+      "occurrences": 1,
+      "total_time": 0.1721725
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        97,
+        109,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.2111059
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        102,
+        101
+      ],
+      "occurrences": 1,
+      "total_time": 0.2992715
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        116,
+        119
+      ],
+      "occurrences": 1,
+      "total_time": 0.1721725
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        32,
+        119
+      ],
+      "occurrences": 1,
+      "total_time": 0.2654146
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        97,
+        100
+      ],
+      "occurrences": 2,
+      "total_time": 0.572055
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        97,
+        100,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2611953
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        121,
+        32,
+        104
+      ],
+      "occurrences": 1,
+      "total_time": 0.473171
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        97,
+        117,
+        115
+      ],
+      "occurrences": 2,
+      "total_time": 0.432132
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        97,
+        118
+      ],
+      "occurrences": 2,
+      "total_time": 0.8005275000000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        104,
+        32,
+        105
+      ],
+      "occurrences": 1,
+      "total_time": 0.2008639
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        102,
+        32,
+        104
+      ],
+      "occurrences": 1,
+      "total_time": 0.3310759
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        116,
+        101,
+        114
+      ],
+      "occurrences": 5,
+      "total_time": 0.9918867
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        98,
+        121
+      ],
+      "occurrences": 1,
+      "total_time": 0.1897417
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        115,
+        116,
+        105
+      ],
+      "occurrences": 1,
+      "total_time": 0.3655802
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        121,
+        32,
+        119
+      ],
+      "occurrences": 5,
+      "total_time": 1.5033130999999997
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        103,
+        101
+      ],
+      "occurrences": 4,
+      "total_time": 0.7074788
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1075,
+        1091
+      ],
+      "occurrences": 1,
+      "total_time": 0.3398574
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1072,
+        1090,
+        1100
+      ],
+      "occurrences": 1,
+      "total_time": 0.2405366
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        101,
+        116
+      ],
+      "occurrences": 4,
+      "total_time": 1.0563233
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1040,
+        1073
+      ],
+      "occurrences": 1,
+      "total_time": 0.7169828
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1090,
+        1077,
+        1090
+      ],
+      "occurrences": 1,
+      "total_time": 0.2496631
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        101,
+        116,
+        32
+      ],
+      "occurrences": 3,
+      "total_time": 0.7970748000000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1075
+      ],
+      "occurrences": 1,
+      "total_time": 0.301032
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        101,
+        32,
+        98
+      ],
+      "occurrences": 1,
+      "total_time": 0.2304833
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        1095
+      ],
+      "occurrences": 3,
+      "total_time": 0.7657647999999999
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        97,
+        102,
+        116
+      ],
+      "occurrences": 1,
+      "total_time": 0.2948091
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1095,
+        1080
+      ],
+      "occurrences": 1,
+      "total_time": 0.3463529
+    },
+    {
+      "attempts": 6,
+      "errors": 0,
+      "gram": [
+        1090
+      ],
+      "occurrences": 6,
+      "total_time": 1.8488917999999999
+    },
+    {
+      "attempts": 8,
+      "errors": 0,
+      "gram": [
+        1072
+      ],
+      "occurrences": 8,
+      "total_time": 2.2388348
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1080,
+        1090,
+        1072
+      ],
+      "occurrences": 1,
+      "total_time": 0.1308697
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1072,
+        1084
+      ],
+      "occurrences": 1,
+      "total_time": 0.3460026
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1090,
+        1072,
+        1090
+      ],
+      "occurrences": 1,
+      "total_time": 0.2189211
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1088,
+        1077,
+        1079
+      ],
+      "occurrences": 1,
+      "total_time": 0.1805601
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        110,
+        32,
+        112
+      ],
+      "occurrences": 1,
+      "total_time": 0.1815697
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        1090,
+        1100
+      ],
+      "occurrences": 3,
+      "total_time": 0.8712588
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1087,
+        1088,
+        1072
+      ],
+      "occurrences": 1,
+      "total_time": 0.5000857
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        32,
+        1087
+      ],
+      "occurrences": 3,
+      "total_time": 0.8186667
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1100,
+        32,
+        1087
+      ],
+      "occurrences": 1,
+      "total_time": 0.3860648
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        121,
+        101
+      ],
+      "occurrences": 2,
+      "total_time": 0.48004030000000003
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1074,
+        1086
+      ],
+      "occurrences": 2,
+      "total_time": 0.6412482
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        1088
+      ],
+      "occurrences": 5,
+      "total_time": 1.5495282000000001
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1087,
+        1088
+      ],
+      "occurrences": 2,
+      "total_time": 0.7611300000000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        116,
+        32,
+        107
+      ],
+      "occurrences": 1,
+      "total_time": 0.2609551
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1087,
+        1088
+      ],
+      "occurrences": 1,
+      "total_time": 0.5610597
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1090,
+        1077
+      ],
+      "occurrences": 1,
+      "total_time": 0.1352421
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        1074
+      ],
+      "occurrences": 4,
+      "total_time": 1.0083803
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1088,
+        1072,
+        1074
+      ],
+      "occurrences": 1,
+      "total_time": 0.1504459
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1086,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.6712544
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1087,
+        1077
+      ],
+      "occurrences": 1,
+      "total_time": 0.2648383
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1088
+      ],
+      "occurrences": 1,
+      "total_time": 0.2810284
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1074,
+        1086,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.30108
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        109,
+        97
+      ],
+      "occurrences": 1,
+      "total_time": 0.1248215
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        32,
+        1088
+      ],
+      "occurrences": 1,
+      "total_time": 0.2810284
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1088,
+        1072
+      ],
+      "occurrences": 1,
+      "total_time": 0.1396562
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        1073
+      ],
+      "occurrences": 4,
+      "total_time": 1.482639
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1073,
+        1086
+      ],
+      "occurrences": 2,
+      "total_time": 0.5020671999999999
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1100,
+        32,
+        1091
+      ],
+      "occurrences": 1,
+      "total_time": 0.1904529
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1072,
+        1073,
+        1086
+      ],
+      "occurrences": 1,
+      "total_time": 0.1759114
+    },
+    {
+      "attempts": 1,
+      "errors": 1,
+      "gram": [
+        110,
+        101
+      ],
+      "occurrences": 0,
+      "total_time": 0.0
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1072,
+        32,
+        1095
+      ],
+      "occurrences": 1,
+      "total_time": 0.2460816
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        104,
+        105,
+        110
+      ],
+      "occurrences": 1,
+      "total_time": 0.289743
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1077,
+        1088,
+        1077
+      ],
+      "occurrences": 1,
+      "total_time": 0.0902412
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        111,
+        118,
+        101
+      ],
+      "occurrences": 2,
+      "total_time": 0.1899456
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        116,
+        32,
+        119
+      ],
+      "occurrences": 4,
+      "total_time": 0.9408277
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1079
+      ],
+      "occurrences": 2,
+      "total_time": 0.4552529
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1079,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.1302789
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1084,
+        1086
+      ],
+      "occurrences": 2,
+      "total_time": 0.6609566
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1100,
+        32,
+        1086
+      ],
+      "occurrences": 1,
+      "total_time": 0.3659666
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1084,
+        1086
+      ],
+      "occurrences": 1,
+      "total_time": 0.2749003
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1084,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2758439
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1081
+      ],
+      "occurrences": 2,
+      "total_time": 0.6123586
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1081
+      ],
+      "occurrences": 1,
+      "total_time": 0.2165469
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1084,
+        1086,
+        1081
+      ],
+      "occurrences": 1,
+      "total_time": 0.2165469
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1077,
+        1090
+      ],
+      "occurrences": 1,
+      "total_time": 0.2496631
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        110,
+        32,
+        97
+      ],
+      "occurrences": 1,
+      "total_time": 0.1944367
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        1085
+      ],
+      "occurrences": 4,
+      "total_time": 1.0992346
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1085
+      ],
+      "occurrences": 1,
+      "total_time": 0.2510137
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1085,
+        1072
+      ],
+      "occurrences": 1,
+      "total_time": 0.3007812
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1085,
+        1072
+      ],
+      "occurrences": 1,
+      "total_time": 0.3007812
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1096
+      ],
+      "occurrences": 1,
+      "total_time": 0.2351958
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1089,
+        1072
+      ],
+      "occurrences": 1,
+      "total_time": 0.1103497
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1087
+      ],
+      "occurrences": 1,
+      "total_time": 0.2359976
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1089,
+        1072
+      ],
+      "occurrences": 1,
+      "total_time": 0.1103497
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1093
+      ],
+      "occurrences": 1,
+      "total_time": 0.2772743
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1093,
+        1086
+      ],
+      "occurrences": 1,
+      "total_time": 0.3901794
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1093,
+        1086
+      ],
+      "occurrences": 1,
+      "total_time": 0.3901794
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1093,
+        1086,
+        1090
+      ],
+      "occurrences": 1,
+      "total_time": 0.3769558
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1087,
+        1088,
+        1086
+      ],
+      "occurrences": 1,
+      "total_time": 0.2307892
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1073
+      ],
+      "occurrences": 1,
+      "total_time": 0.251175
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        101,
+        99,
+        97
+      ],
+      "occurrences": 1,
+      "total_time": 0.1297051
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1073
+      ],
+      "occurrences": 1,
+      "total_time": 0.3696301
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1077,
+        1090,
+        1100
+      ],
+      "occurrences": 1,
+      "total_time": 0.2500486
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        1086
+      ],
+      "occurrences": 2,
+      "total_time": 0.6969597
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1085
+      ],
+      "occurrences": 1,
+      "total_time": 0.3205643
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1085,
+        1080
+      ],
+      "occurrences": 1,
+      "total_time": 0.3449272
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1080,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.3111555
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1085,
+        1080,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.3111555
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1074
+      ],
+      "occurrences": 1,
+      "total_time": 0.2612224
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1080,
+        32,
+        1074
+      ],
+      "occurrences": 1,
+      "total_time": 0.2612224
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1074,
+        1086
+      ],
+      "occurrences": 1,
+      "total_time": 0.2450684
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        97,
+        98,
+        111
+      ],
+      "occurrences": 2,
+      "total_time": 0.29517780000000005
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1087,
+        1088
+      ],
+      "occurrences": 1,
+      "total_time": 0.2000703
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1088,
+        1086
+      ],
+      "occurrences": 1,
+      "total_time": 0.2307892
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1086,
+        1089
+      ],
+      "occurrences": 2,
+      "total_time": 0.5315097
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1088,
+        1086,
+        1089
+      ],
+      "occurrences": 1,
+      "total_time": 0.2556834
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1089,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2349243
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        97,
+        102
+      ],
+      "occurrences": 1,
+      "total_time": 0.2461904
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1089,
+        32,
+        1087
+      ],
+      "occurrences": 1,
+      "total_time": 0.2113672
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1087,
+        1077
+      ],
+      "occurrences": 1,
+      "total_time": 0.2648383
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1087,
+        1077,
+        1088
+      ],
+      "occurrences": 1,
+      "total_time": 0.2262649
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        108,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.3012764
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1077,
+        1088,
+        1074
+      ],
+      "occurrences": 1,
+      "total_time": 0.3062416
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1088,
+        1074,
+        1099
+      ],
+      "occurrences": 1,
+      "total_time": 0.1146175
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1099,
+        1081
+      ],
+      "occurrences": 1,
+      "total_time": 0.3958117
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1081,
+        32,
+        1073
+      ],
+      "occurrences": 1,
+      "total_time": 0.251175
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        113
+      ],
+      "occurrences": 1,
+      "total_time": 0.3110088
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1099,
+        1090
+      ],
+      "occurrences": 1,
+      "total_time": 0.3210243
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        97,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2963886
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1099,
+        1090,
+        1100
+      ],
+      "occurrences": 1,
+      "total_time": 0.3806736
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        1076
+      ],
+      "occurrences": 3,
+      "total_time": 0.6308214
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        1076
+      ],
+      "occurrences": 2,
+      "total_time": 0.4547799
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        115,
+        99,
+        104
+      ],
+      "occurrences": 2,
+      "total_time": 0.6110703
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1100,
+        32,
+        1076
+      ],
+      "occurrences": 1,
+      "total_time": 0.2396496
+    },
+    {
+      "attempts": 2,
+      "errors": 2,
+      "gram": [
+        117,
+        109,
+        98
+      ],
+      "occurrences": 0,
+      "total_time": 0.0
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1076,
+        1086,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.3701744
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        32,
+        1086
+      ],
+      "occurrences": 1,
+      "total_time": 0.3309931
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1089,
+        1083
+      ],
+      "occurrences": 1,
+      "total_time": 0.2007829
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1086,
+        1076
+      ],
+      "occurrences": 1,
+      "total_time": 0.1760415
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        102,
+        97,
+        109
+      ],
+      "occurrences": 2,
+      "total_time": 0.7370156999999999
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1076,
+        1080
+      ],
+      "occurrences": 1,
+      "total_time": 0.2548078
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1076,
+        1080
+      ],
+      "occurrences": 1,
+      "total_time": 0.2548078
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1080,
+        1085
+      ],
+      "occurrences": 1,
+      "total_time": 0.2708877
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1076,
+        1080,
+        1085
+      ],
+      "occurrences": 1,
+      "total_time": 0.2708877
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1085,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.21035
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        65
+      ],
+      "occurrences": 0,
+      "total_time": 0.0
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1078
+      ],
+      "occurrences": 1,
+      "total_time": 0.3110284
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1078,
+        1080
+      ],
+      "occurrences": 1,
+      "total_time": 0.1955713
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1080,
+        1079
+      ],
+      "occurrences": 1,
+      "total_time": 0.2746928
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1078,
+        1080,
+        1079
+      ],
+      "occurrences": 1,
+      "total_time": 0.2746928
+    },
+    {
+      "attempts": 1,
+      "errors": 1,
+      "gram": [
+        1085,
+        1100
+      ],
+      "occurrences": 0,
+      "total_time": 0.0
+    },
+    {
+      "attempts": 1,
+      "errors": 1,
+      "gram": [
+        1079,
+        1085,
+        1100
+      ],
+      "occurrences": 0,
+      "total_time": 0.0
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        97,
+        115,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.6168327
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1091
+      ],
+      "occurrences": 1,
+      "total_time": 0.1904529
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1084
+      ],
+      "occurrences": 1,
+      "total_time": 0.4764438
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1076,
+        1086,
+        1084
+      ],
+      "occurrences": 1,
+      "total_time": 0.4764438
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        1083
+      ],
+      "occurrences": 2,
+      "total_time": 0.4170433
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1077,
+        1083
+      ],
+      "occurrences": 1,
+      "total_time": 0.2162604
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1095,
+        1077,
+        1083
+      ],
+      "occurrences": 1,
+      "total_time": 0.2162604
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1083,
+        1086
+      ],
+      "occurrences": 1,
+      "total_time": 0.4459603
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1074
+      ],
+      "occurrences": 1,
+      "total_time": 0.2904704
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1074,
+        1077
+      ],
+      "occurrences": 1,
+      "total_time": 0.2201184
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1074,
+        1077
+      ],
+      "occurrences": 1,
+      "total_time": 0.2201184
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1077,
+        1082
+      ],
+      "occurrences": 1,
+      "total_time": 0.2617944
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        101,
+        97,
+        114
+      ],
+      "occurrences": 2,
+      "total_time": 0.3402576
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1082,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2095254
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1077,
+        1082,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2095254
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1082,
+        32,
+        1087
+      ],
+      "occurrences": 1,
+      "total_time": 0.2212347
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1087,
+        1086
+      ],
+      "occurrences": 1,
+      "total_time": 0.2899719
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1087,
+        1086,
+        1089
+      ],
+      "occurrences": 1,
+      "total_time": 0.2758263
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1083,
+        1077
+      ],
+      "occurrences": 1,
+      "total_time": 0.1851091
+    },
+    {
+      "attempts": 2,
+      "errors": 1,
+      "gram": [
+        110,
+        117
+      ],
+      "occurrences": 1,
+      "total_time": 0.4411942
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        101,
+        32,
+        110
+      ],
+      "occurrences": 3,
+      "total_time": 0.920364
+    },
+    {
+      "attempts": 2,
+      "errors": 1,
+      "gram": [
+        32,
+        110,
+        117
+      ],
+      "occurrences": 1,
+      "total_time": 0.4411942
+    },
+    {
+      "attempts": 2,
+      "errors": 2,
+      "gram": [
+        109,
+        98
+      ],
+      "occurrences": 0,
+      "total_time": 0.0
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        32,
+        121
+      ],
+      "occurrences": 3,
+      "total_time": 0.8426576000000001
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        97,
+        114,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.44685549999999996
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        113
+      ],
+      "occurrences": 1,
+      "total_time": 0.3110088
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        114,
+        32,
+        113
+      ],
+      "occurrences": 1,
+      "total_time": 0.3110088
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        113,
+        117
+      ],
+      "occurrences": 1,
+      "total_time": 0.3254767
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        113,
+        117
+      ],
+      "occurrences": 1,
+      "total_time": 0.3254767
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        99,
+        32,
+        119
+      ],
+      "occurrences": 2,
+      "total_time": 0.5164076
+    },
+    {
+      "attempts": 1,
+      "errors": 1,
+      "gram": [
+        117,
+        101,
+        115
+      ],
+      "occurrences": 0,
+      "total_time": 0.0
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        116,
+        105,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.2815126
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        105,
+        111,
+        110
+      ],
+      "occurrences": 1,
+      "total_time": 0.1693776
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        117,
+        114
+      ],
+      "occurrences": 1,
+      "total_time": 0.3908726
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        101,
+        108
+      ],
+      "occurrences": 1,
+      "total_time": 0.2560795
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        101,
+        108,
+        108
+      ],
+      "occurrences": 1,
+      "total_time": 0.1600742
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        108,
+        32,
+        112
+      ],
+      "occurrences": 1,
+      "total_time": 0.1748423
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        116,
+        32,
+        111
+      ],
+      "occurrences": 3,
+      "total_time": 0.9232201
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        65,
+        98
+      ],
+      "occurrences": 3,
+      "total_time": 1.2579418
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        111,
+        108,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.5609645
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        98,
+        111
+      ],
+      "occurrences": 5,
+      "total_time": 2.4515093
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        98,
+        111,
+        98
+      ],
+      "occurrences": 3,
+      "total_time": 1.0357645
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        111,
+        98,
+        97
+      ],
+      "occurrences": 3,
+      "total_time": 1.3685299
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1040
+      ],
+      "occurrences": 0,
+      "total_time": 0.0
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1040,
+        1073,
+        1086
+      ],
+      "occurrences": 1,
+      "total_time": 0.3261558
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        32,
+        107
+      ],
+      "occurrences": 4,
+      "total_time": 0.9829675999999999
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1073,
+        1086,
+        1073
+      ],
+      "occurrences": 1,
+      "total_time": 0.3696301
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1073,
+        1072
+      ],
+      "occurrences": 1,
+      "total_time": 0.4260704
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        1072
+      ],
+      "occurrences": 1,
+      "total_time": 0.5712284
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1072,
+        32,
+        1072
+      ],
+      "occurrences": 1,
+      "total_time": 0.5712284
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1072,
+        1084,
+        1086
+      ],
+      "occurrences": 1,
+      "total_time": 0.3860563
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1086,
+        1075
+      ],
+      "occurrences": 1,
+      "total_time": 0.301032
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1084,
+        1086,
+        1075
+      ],
+      "occurrences": 1,
+      "total_time": 0.301032
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        1075,
+        1091
+      ],
+      "occurrences": 1,
+      "total_time": 0.3398574
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        97,
+        32,
+        97
+      ],
+      "occurrences": 1,
+      "total_time": 0.2060418
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        97,
+        109
+      ],
+      "occurrences": 3,
+      "total_time": 1.5479973
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        105,
+        110,
+        107
+      ],
+      "occurrences": 1,
+      "total_time": 0.5022194
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        103,
+        117
+      ],
+      "occurrences": 1,
+      "total_time": 0.2551944
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        103,
+        117,
+        115
+      ],
+      "occurrences": 1,
+      "total_time": 0.2662158
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        46
+      ],
+      "occurrences": 2,
+      "total_time": 0.8122788000000001
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        115,
+        46
+      ],
+      "occurrences": 1,
+      "total_time": 0.3111799
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        115,
+        32,
+        110
+      ],
+      "occurrences": 1,
+      "total_time": 0.4263563
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        117,
+        115,
+        46
+      ],
+      "occurrences": 1,
+      "total_time": 0.3111799
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        99,
+        111,
+        109
+      ],
+      "occurrences": 1,
+      "total_time": 0.180672
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        118,
+        101,
+        114
+      ],
+      "occurrences": 2,
+      "total_time": 0.2452637
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        111,
+        118
+      ],
+      "occurrences": 2,
+      "total_time": 0.4967612
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        104,
+        32,
+        107
+      ],
+      "occurrences": 2,
+      "total_time": 0.4210202
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        32,
+        107,
+        110
+      ],
+      "occurrences": 4,
+      "total_time": 0.9564939
+    },
+    {
+      "attempts": 4,
+      "errors": 0,
+      "gram": [
+        107,
+        110,
+        111
+      ],
+      "occurrences": 4,
+      "total_time": 0.5964501
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        119,
+        32,
+        97
+      ],
+      "occurrences": 1,
+      "total_time": 0.2359738
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        100,
+        32,
+        108
+      ],
+      "occurrences": 1,
+      "total_time": 0.8420947
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        101,
+        32,
+        108
+      ],
+      "occurrences": 3,
+      "total_time": 0.6058855
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        102,
+        101,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.3157798
+    },
+    {
+      "attempts": 5,
+      "errors": 0,
+      "gram": [
+        117,
+        115,
+        101
+      ],
+      "occurrences": 5,
+      "total_time": 0.34180689999999997
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        119,
+        32,
+        112
+      ],
+      "occurrences": 1,
+      "total_time": 0.2108832
+    },
+    {
+      "attempts": 2,
+      "errors": 1,
+      "gram": [
+        109,
+        121
+      ],
+      "occurrences": 1,
+      "total_time": 0.1407551
+    },
+    {
+      "attempts": 2,
+      "errors": 1,
+      "gram": [
+        32,
+        109,
+        121
+      ],
+      "occurrences": 1,
+      "total_time": 0.1407551
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        109,
+        121,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2952862
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        112,
+        97
+      ],
+      "occurrences": 2,
+      "total_time": 0.3506166
+    },
+    {
+      "attempts": 3,
+      "errors": 0,
+      "gram": [
+        114,
+        116
+      ],
+      "occurrences": 3,
+      "total_time": 0.7660733000000001
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        114,
+        116,
+        32
+      ],
+      "occurrences": 2,
+      "total_time": 0.4111978
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        114,
+        32,
+        117
+      ],
+      "occurrences": 1,
+      "total_time": 0.3409465
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        121,
+        111
+      ],
+      "occurrences": 2,
+      "total_time": 0.2830055
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        121,
+        111,
+        117
+      ],
+      "occurrences": 2,
+      "total_time": 0.3771908
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        114,
+        32,
+        104
+      ],
+      "occurrences": 1,
+      "total_time": 0.3608247
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        97,
+        110,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.3066462
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        97,
+        102
+      ],
+      "occurrences": 1,
+      "total_time": 0.2461904
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        115,
+        32,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.3710868
+    },
+    {
+      "attempts": 1,
+      "errors": 1,
+      "gram": [
+        111,
+        110,
+        101
+      ],
+      "occurrences": 0,
+      "total_time": 0.0
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        101,
+        32,
+        109
+      ],
+      "occurrences": 1,
+      "total_time": 0.3261237
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        110,
+        32,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.2749492
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        110,
+        108
+      ],
+      "occurrences": 1,
+      "total_time": 0.219967
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        114,
+        32,
+        110
+      ],
+      "occurrences": 1,
+      "total_time": 0.4459432
+    },
+    {
+      "attempts": 4,
+      "errors": 1,
+      "gram": [
+        32,
+        110,
+        111
+      ],
+      "occurrences": 3,
+      "total_time": 0.7125284000000001
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        119,
+        32,
+        115
+      ],
+      "occurrences": 2,
+      "total_time": 0.7126356
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        99,
+        104,
+        111
+      ],
+      "occurrences": 2,
+      "total_time": 0.7417469999999999
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        111,
+        108
+      ],
+      "occurrences": 2,
+      "total_time": 0.6872628000000001
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        97,
+        98
+      ],
+      "occurrences": 2,
+      "total_time": 0.3709028
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        32,
+        97,
+        98
+      ],
+      "occurrences": 2,
+      "total_time": 0.3709028
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        111,
+        117,
+        116
+      ],
+      "occurrences": 2,
+      "total_time": 0.8921564
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        108,
+        32,
+        110
+      ],
+      "occurrences": 1,
+      "total_time": 0.3996427
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        116,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2162834
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        109,
+        105
+      ],
+      "occurrences": 2,
+      "total_time": 0.3411602
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        97,
+        109,
+        105
+      ],
+      "occurrences": 2,
+      "total_time": 0.3411602
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        100,
+        32,
+        109
+      ],
+      "occurrences": 2,
+      "total_time": 0.7371152
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        107,
+        32,
+        109
+      ],
+      "occurrences": 1,
+      "total_time": 0.3757885
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        116,
+        32,
+        109
+      ],
+      "occurrences": 2,
+      "total_time": 0.5875686
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        114,
+        32,
+        98
+      ],
+      "occurrences": 1,
+      "total_time": 0.3311268
+    },
+    {
+      "attempts": 2,
+      "errors": 1,
+      "gram": [
+        101,
+        99
+      ],
+      "occurrences": 1,
+      "total_time": 0.4163019
+    },
+    {
+      "attempts": 2,
+      "errors": 1,
+      "gram": [
+        98,
+        101,
+        99
+      ],
+      "occurrences": 1,
+      "total_time": 0.4163019
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        97,
+        117
+      ],
+      "occurrences": 2,
+      "total_time": 0.9368897
+    },
+    {
+      "attempts": 2,
+      "errors": 0,
+      "gram": [
+        99,
+        97,
+        117
+      ],
+      "occurrences": 2,
+      "total_time": 0.9368897
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        119,
+        32,
+        102
+      ],
+      "occurrences": 1,
+      "total_time": 0.4410395
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        108,
+        111,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.1508972
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        107,
+        32,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.2009767
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        117,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.3400181
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        117,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.3400181
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        117,
+        32,
+        112
+      ],
+      "occurrences": 1,
+      "total_time": 0.1960074
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        84
+      ],
+      "occurrences": 0,
+      "total_time": 0.0
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        110,
+        111,
+        32
+      ],
+      "occurrences": 1,
+      "total_time": 0.2799691
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        100,
+        111
+      ],
+      "occurrences": 1,
+      "total_time": 0.2397983
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        100,
+        111,
+        117
+      ],
+      "occurrences": 1,
+      "total_time": 0.2610025
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        111,
+        117,
+        98
+      ],
+      "occurrences": 1,
+      "total_time": 0.4209605
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        117,
+        98,
+        116
+      ],
+      "occurrences": 1,
+      "total_time": 0.4909255
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        115,
+        32,
+        115
+      ],
+      "occurrences": 1,
+      "total_time": 0.6710515
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        32,
+        115,
+        109
+      ],
+      "occurrences": 1,
+      "total_time": 0.2861155
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        115,
+        109,
+        97
+      ],
+      "occurrences": 1,
+      "total_time": 0.1248215
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        116,
+        46
+      ],
+      "occurrences": 1,
+      "total_time": 0.5010989
+    },
+    {
+      "attempts": 2,
+      "errors": 2,
+      "gram": [
+        119,
+        111,
+        117
+      ],
+      "occurrences": 0,
+      "total_time": 0.0
+    },
+    {
+      "attempts": 1,
+      "errors": 0,
+      "gram": [
+        100,
+        32,
+        102
+      ],
+      "occurrences": 1,
+      "total_time": 0.2611038
+    }
+  ],
+  "version": 2
+}
