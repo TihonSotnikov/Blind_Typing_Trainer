@@ -6,10 +6,10 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-20-blue.svg)](https://en.cppreference.com/)
 [![Qt](https://img.shields.io/badge/Qt-6%20(QML%2FQuick)-41cd52.svg)](https://www.qt.io/)
 [![CMake](https://img.shields.io/badge/CMake-3.21%2B-red.svg)](https://cmake.org/)
-[![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20Linux-lightgrey.svg)](#сборка-из-исходников)
+[![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](#сборка-из-исходников)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-<!-- TODO(release): добавить сюда скриншот или GIF тренировки -->
+[Демо](https://github.com/user-attachments/assets/70114347-2fb3-4441-a618-82ec540c0306)
 
 ---
 
@@ -130,14 +130,21 @@ Typing_Trainer/
 
 Готовые сборки публикуются во вкладке
 [**Releases**](https://github.com/TihonSotnikov/Blind_Typing_Trainer/releases) — скачайте
-архив под свою ОС и запустите. Чтобы собрать из исходников, см. раздел ниже.
+файл под свою ОС:
+
+- **Windows** — распакуйте архив, запустите `TypingTrainer.exe`.
+- **macOS** (universal, Intel + Apple Silicon) — откройте `.dmg`, перетащите приложение в
+  Applications; при первом запуске — ПКМ → «Открыть» (сборка без нотаризации).
+- **Linux** (x86_64) — `chmod +x TypingTrainer-linux-x86_64.AppImage && ./TypingTrainer-linux-x86_64.AppImage`.
+
+Чтобы собрать из исходников, см. раздел ниже.
 
 ---
 
 ## Сборка из исходников
 
-**Требования:** C++20 (GCC 11+, Clang 13+, MSVC 19.30+), CMake 3.21+, Qt 6
-(`Core Qml Quick Widgets QuickControls2 QuickEffects`), [nlohmann/json](https://github.com/nlohmann/json).
+**Требования:** C++20 (GCC 11+, Clang 13+, MSVC 19.30+), CMake 3.21+, Qt 6.5+
+(`Core Qml Quick Widgets QuickControls2 QuickEffects`), [nlohmann/json](https://github.com/nlohmann/json) 3.12+.
 Пресеты сборки — в [`CMakePresets.json`](CMakePresets.json).
 
 ### Windows (vcpkg)
@@ -153,6 +160,15 @@ vcpkg install qtbase:x64-windows qtdeclarative:x64-windows nlohmann-json:x64-win
 cmake --preset vcpkg-release
 cmake --build --preset release
 cmake --install build/vcpkg-release --prefix "$pwd/dist"
+```
+
+### macOS (Homebrew)
+
+```sh
+brew install qt cmake nlohmann-json
+cmake -S . -B build -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH="$(brew --prefix qt)"
+cmake --build build
+./build/TypingTrainer.app/Contents/MacOS/TypingTrainer
 ```
 
 ### Linux
